@@ -1,29 +1,122 @@
 package com.org.learnby.linkedlist;
 
 public class LinkedList {
-    public Node head;
-    public Node insertFirst(int data){
+    private Node head=null;
 
-        Node currentNode=new Node(data);
-        currentNode.next=head;
-        head=currentNode;
-        return currentNode;
+
+
+    public Node getHead() {
+        return head;
     }
 
-    public void printList(){
+    public void insertAtEnd(int data){
+        Node node=new Node(data);
+        if(head==null){
+            head=node;
+        }else{
+            Node temp=head;
+            while(temp.next!=null){
+                temp=temp.next;
+            }
+            temp.next=node;
+
+        }
+
+
+    }
+    public void insertBegging(int data){
+        Node node=new Node(data);
+        if(head==null){
+            head=node;
+        }else{
+            node.next=head;
+            head=node;
+           }
+
+
+    }
+    public boolean searchANumber(int data){
         Node temp=head;
         while(temp!=null){
-            System.out.println(temp.data);
+            if(temp.data==data){
+                return true;
+            }
             temp=temp.next;
         }
+        return false;
     }
 
-}
-class Node{
-    int data;
-    Node next;
-    public Node(int data){
-        this.data=data;
-        next=null;
+    public void deleteNodeByNumber(int data){
+        Node temp=head;
+        Node previous=null;
+        while(temp!=null){
+            if(temp.data==data){
+                if(previous!=null) {
+                    previous.next = temp.next;
+                }else{
+                    head=head.next;
+                }
+                break;
+            }
+            previous=temp;
+            temp=temp.next;
+        }
+
+
     }
+    public void deleteNodeByIndex(int index){
+        Node temp=head;
+        Node previous=null;
+        int n=0;
+        while(temp!=null){
+            if(index==n){
+                if(previous==null){
+                    head=head.next;
+                }else{
+                    previous.next=temp.next;
+                }
+                break;
+            }
+            n++;
+            previous=temp;
+            temp=temp.next;
+        }
+
+
+
+    }
+    public void reverseLinkedList(){
+
+        Node temp=head;
+        Node current=head;
+        Node previous=null;
+        while(current!=null){
+            temp=temp.next;
+            current.next=previous;
+            previous=current;
+            current=temp;
+        }
+        head=previous;
+
+    }
+
+    public void itterativeData(){
+        Node temp=head;
+        while(temp!=null){
+            System.out.print(temp.data+" ");
+            temp=temp.next;
+        }
+
+    }
+
+    public void recursiveData(Node node){
+        if(node==null){
+            return;
+        }
+        System.out.print(node.data+" ");
+        recursiveData(node.next);
+
+    }
+
+
 }
