@@ -32,11 +32,11 @@ public class LinkedListOperations {
        // l.deleteNodeByIndex(2);
 
        // System.out.println(l.searchANumber(70));
-        l.reverseLinkedList();
-
+       // l.reverseLinkedl.reverseRecursiveByP(l.getHead());
        l.itterativeData();
 
        // l.recursiveData(l.getHead());
+        l.reverseRecursive(l.getHead());
 
 
 

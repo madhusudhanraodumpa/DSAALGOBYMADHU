@@ -29,10 +29,7 @@ public class MinmumSubsetOfArray {
                         minSubset = r - f;
                     }
                 }
-
             }
-
-
         }
         if(minSubset>a.length){
             System.out.println("Not possible");

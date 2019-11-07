@@ -86,7 +86,6 @@ public class LinkedList {
 
     }
     public void reverseLinkedList(){
-
         Node temp=head;
         Node current=head;
         Node previous=null;
@@ -97,7 +96,37 @@ public class LinkedList {
             current=temp;
         }
         head=previous;
+    }
 
+    public Node reverseRecursive(Node node){
+
+        if(node==null){
+            return null;
+        }
+        if(node.next==null){
+            head=node;
+            return node;
+        }
+
+        Node temp=reverseRecursive(node.next);
+        temp.next=node;
+        node.next=null;
+        return node;
+    }
+
+    public Node reverseRecursiveByP(Node node){
+
+        if(node==null){
+            return node;
+        }
+        if(node.next==null){
+            return node;
+        }
+
+        Node temp=reverseRecursiveByP(node.next);
+        node.next.next=node;
+        node.next=null;
+        return temp;
     }
 
     public void itterativeData(){
