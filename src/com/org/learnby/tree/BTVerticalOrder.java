@@ -16,7 +16,13 @@ public class BTVerticalOrder {
         root.right.left = new TreeNode(6);
         root.right.right = new TreeNode(7);
         verticalOrder(root);
-
+        Map<Integer, List<Integer>> map=new HashMap<>();
+        verticalOrderRecursive(root,0,map);
+System.out.println();
+        for (Map.Entry<Integer, List<Integer>> entry : map.entrySet())
+        {
+            System.out.println(entry.getValue());
+        }
     }
 
     private static void verticalOrder(TreeNode root) {
@@ -36,10 +42,10 @@ public class BTVerticalOrder {
                 leftHd=leftHd-1;
                 List<Integer> leftList=map.get(leftHd);
                 if(leftList!=null){
-                    leftList.add(root.data);
+                    leftList.add(node.left.data);
                 }else{
                     leftList=new ArrayList<>();
-                    leftList.add(leftHd);
+                    leftList.add(node.left.data);
                 }
                 map.put(leftHd,leftList);
 
@@ -49,10 +55,10 @@ public class BTVerticalOrder {
                 rigthHd=rigthHd+1;
                 List<Integer> rigthList=map.get(rigthHd);
                 if(rigthList!=null){
-                    rigthList.add(rigthHd);
+                    rigthList.add(node.right.data);
                 }else{
                     rigthList=new ArrayList<>();
-                    rigthList.add(rigthHd);
+                    rigthList.add(node.right.data);
                 }
                 map.put(rigthHd,rigthList);
 
@@ -60,12 +66,25 @@ public class BTVerticalOrder {
             }
 
         }
-        for(List<Integer> l:map.values()){
-            for(Integer i:l){
-                System.out.print(i+" ");
-            }
-            System.out.println();
+        for (Map.Entry<Integer, List<Integer>> entry : map.entrySet())
+        {
+            System.out.println(entry.getValue());
         }
 
     }
-}
+    private static void verticalOrderRecursive(TreeNode root,int hd,Map<Integer, List<Integer>> map) {
+
+        if(root ==null) return;
+        List<Integer> list=map.get(hd);
+        if(list!=null){
+            list.add(root.data);
+        }else{
+            list=new ArrayList<>();
+            list.add(root.data);
+        }
+        map.put(hd,list);
+        verticalOrderRecursive(root.left,hd-1,map);
+        verticalOrderRecursive(root.right,hd+1,map);
+    }
+
+    }

@@ -17,8 +17,8 @@ public class BTDiameterOfTree {
         root.right.left = new TreeNode(6);
         root.right.right = new TreeNode(7);
 
-        root.left.left.right=new TreeNode(8);
-        root.left.left.right.left=new TreeNode(9);
+        //root.left.left.right=new TreeNode(8);
+      //  root.left.left.right.left=new TreeNode(9);
         BTInOrder inOrder=new BTInOrder();
         List<Integer> list=new ArrayList<>();
        BTHeightOfTree btHeightOfTree=new BTHeightOfTree();
