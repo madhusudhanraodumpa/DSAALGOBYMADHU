@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bca1ce6c-db3b-467a-a789-3c85bc7b057a" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/.IntelliJIdea2019.1/system/workspace/greeksforg-algo.a19cfd17.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2019.1/system/workspace/tenantonboarding.ae56474a.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2019.1/system/workspace/test.dfb6266a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeksforg-algo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeksforg-algo/greeksforg-algo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeksforg-algo/src/com/algo/array/ArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeksforg-algo/src/com/algo/dynamicPrograming/FibonicSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-by.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/LootoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/array/EveneFibaonicSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/backtracking/NQueenSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/bitmasking/LuckyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/deque/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/heap/MaxHeapAndMinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/queue/CreateQueueUsingSingleStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/queue/CreateQueueUsingTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/queue/MinSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/queue/QueueAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/queue/QueueIsChangeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/queue/RearrangeQueueElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/queue/ReverseTheQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/DeleteMiddleElementInStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/GameOfTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/HistogramProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/HistrogramRectangleUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/MaxElementInStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/SmallestNumberNearToLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/StockSpanProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/TextEditorUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTDiameterOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTHeightOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTLCAOfTwoNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTLeftView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTLevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTMedianLevelOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTMirrorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTPostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTPreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintKthLevelNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLeafToPathNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLevelMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTReverseLevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTSizeofTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTVerticalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTZigZagOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/com/test/TriplicateNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="C:/shn/core-common/src/main/java/com/shn/corecommon/ProtectionAreaEnum.java" afterDir="false" />
+      <change afterPath="C:/shn/shndatamodel/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="C:/shn/shndatamodel/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="C:/shn/shndatamodel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="C:/shn/shndatamodel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/shn/shndatamodel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="C:/shn/tenantOnboarding/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="C:/shn/tenantOnboarding/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="C:/shn/tenantOnboarding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="C:/shn/tenantOnboarding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/shn/tenantOnboarding/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/client/src/main/java/com/shn/webanalytics/WebDataLogSourceClientService.java" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/common/src/main/java/com/shn/webanalytics/model/WebLogDataSourceInfo.java" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/server/src/main/java/com/shn/webanalytics/controller/WebLogDataSourceController.java" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/server/src/main/java/com/shn/webanalytics/dataloader/WebLogDataSourceLoader.java" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/server/src/main/java/com/shn/webanalytics/service/WebLogDataSourceService.java" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics/server/src/main/java/com/shn/webanalytics/service/impl/WebLogDataSourceServiceImpl.java" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics_new/server/src/main/java/com/shn/webanalytics/dataloader/WebServiceLoader.java" afterDir="false" />
+      <change afterPath="C:/shn/webanalytics_new/server/src/main/java/com/shn/webanalytics/exception/ReportGeneratorException.java" afterDir="false" />
+      <change afterPath="C:/tenantOnboarding/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="C:/tenantOnboarding/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="C:/tenantOnboarding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="C:/tenantOnboarding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/tenantOnboarding/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/bitmasking/LuckyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/bitmasking/LuckyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/math/MatrixExponentionByFibonicSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/math/MatrixExponentionByFibonicSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchPivotElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchPivotElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/searching/findElementInSortedRoattedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/searching/findElementInSortedRoattedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/string/StringMatchingBruteForceAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/string/StringMatchingBruteForceAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/Tree.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learn-by" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTLeftView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTHeightOfTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" selection-start-line="2" selection-start-column="13" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLeafToPathNodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPostOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTMirrorView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTDiameterOfTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>petrol</find>
+      <find>&amp;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/org/learnby/heap/MaxHeapAndMinHeap.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/deque/SlidingWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/queue/MinSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/queue/InterchangeElements.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/array/PetrolPumpProblem.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/linkedlist/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/NumberTheory/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/NumberTheory/FastModExponention.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/NumberTheory/GCDCalculation.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/NumberTheory/PrimeNumberChecking.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/array/MinmumSubsetOfArray.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/sorting/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/sorting/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/sorting/CountingSort.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchSqareRoot.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchFirstOccurance.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchLastOccurance.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedListOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/linkedlist/ReverseLinkedRecursive.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/linkedlist/ReverseLinkedListIterative.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/bitmasking/LuckyNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchPivotElement.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/sorting/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/sorting/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/searching/findElementInSortedRoattedArray.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/string/StringMatchingBruteForceAlgo.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/math/MatrixExponentionByFibonicSeries.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/hash/GFG.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/hash/LargestSubArrayWIthSumZero.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/hash/ContiguousSubarray.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BSTInOrderIterative.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTPreOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTLevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTZigZagOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTInOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTMirrorView.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTReverseLevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTSizeofTree.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTLCAOfTwoNodes.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTPostOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTVerticalOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintKthLevelNodes.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLevelMaxSum.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTLeftView.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTMedianLevelOfTree.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLeafToPathNodes.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTHeightOfTree.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/tree/BTDiameterOfTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="82" />
+    <option name="y" value="-11" />
+    <option name="width" value="1850" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learn-by" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-by" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-by" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-by" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-by" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-by" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learnby" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-by" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-by" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learnby" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-by" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-by" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learnby" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberTheory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-by" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-by" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learnby" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BTDiameterOfTree">
+    <configuration name="BTDiameterOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.tree.BTDiameterOfTree" />
+      <module name="learn-by" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.learnby.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTLeftView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.tree.BTLeftView" />
+      <module name="learn-by" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.learnby.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTMedianLevelOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.tree.BTMedianLevelOfTree" />
+      <module name="learn-by" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.learnby.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTPostOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.tree.BTPostOrder" />
+      <module name="learn-by" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.learnby.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTPrintLeafToPathNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.tree.BTPrintLeafToPathNodes" />
+      <module name="learn-by" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.learnby.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BTDiameterOfTree" />
+        <item itemvalue="Application.BTPostOrder" />
+        <item itemvalue="Application.BTPrintLeafToPathNodes" />
+        <item itemvalue="Application.BTMedianLevelOfTree" />
+        <item itemvalue="Application.BTLeftView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bca1ce6c-db3b-467a-a789-3c85bc7b057a" name="Default Changelist" comment="" />
+      <created>1566324766870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566324766870</updated>
+      <workItem from="1566324779948" duration="290000" />
+      <workItem from="1566325268571" duration="2495000" />
+      <workItem from="1566368358771" duration="642000" />
+      <workItem from="1566584693985" duration="7919000" />
+      <workItem from="1566753767687" duration="931000" />
+      <workItem from="1566797799105" duration="1847000" />
+      <workItem from="1567224719820" duration="3440000" />
+      <workItem from="1567489365579" duration="20063000" />
+      <workItem from="1567681889824" duration="1598000" />
+      <workItem from="1567695098425" duration="1314000" />
+      <workItem from="1567786259627" duration="20331000" />
+      <workItem from="1568004710437" duration="1122000" />
+      <workItem from="1568006634293" duration="26868000" />
+      <workItem from="1568613719022" duration="16124000" />
+      <workItem from="1568702287073" duration="2586000" />
+      <workItem from="1568917506254" duration="3126000" />
+      <workItem from="1569130785002" duration="2065000" />
+      <workItem from="1569239026854" duration="623000" />
+      <workItem from="1571318502941" duration="3591000" />
+      <workItem from="1571724511593" duration="7757000" />
+      <workItem from="1572113846411" duration="10125000" />
+      <workItem from="1572158624597" duration="911000" />
+      <workItem from="1572200103427" duration="587000" />
+      <workItem from="1572290876454" duration="1496000" />
+      <workItem from="1572327791374" duration="465000" />
+      <workItem from="1572335301846" duration="49262000" />
+      <workItem from="1572805444593" duration="707000" />
+      <workItem from="1572807278662" duration="1743000" />
+      <workItem from="1572809138958" duration="1519000" />
+      <workItem from="1572811016590" duration="1733000" />
+      <workItem from="1572812926491" duration="1688000" />
+      <workItem from="1572814846718" duration="1279000" />
+      <workItem from="1572848317548" duration="1187000" />
+      <workItem from="1572886297687" duration="1911000" />
+      <workItem from="1573058724018" duration="4063000" />
+      <workItem from="1573124207356" duration="38512000" />
+      <workItem from="1573467767934" duration="485000" />
+      <workItem from="1573472997656" duration="1764000" />
+      <workItem from="1573537196149" duration="558000" />
+      <workItem from="1573572760038" duration="9072000" />
+      <workItem from="1573836749098" duration="10346000" />
+      <workItem from="1574000164703" duration="1706000" />
+      <workItem from="1574002476397" duration="1638000" />
+      <workItem from="1574004252027" duration="1763000" />
+      <workItem from="1574006171490" duration="266000" />
+      <workItem from="1574061693774" duration="589000" />
+      <workItem from="1574132353761" duration="22808000" />
+      <workItem from="1574317183869" duration="6666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="299581000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60324824" visible="true" weight="0.29149798" />
+      <window_info id="Structure" order="1" sideWeight="0.39675173" side_tool="true" weight="0.24858299" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.39675173" side_tool="true" weight="0.24858299" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.23017408" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3460838" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.31876138" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3387978" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.76648355" weight="0.28606558" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.23351648" side_tool="true" weight="0.34979758" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.23017408" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28942117" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4071856" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.34131736" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/Assignment2.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/GetMinumumValue.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/GetMinumumValue.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/GetMinumumValue.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/StackUsingTwoQueues.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/StackUsingSingleQueue.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/SortStack.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/SortStack.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/SortStack.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/StackUsingSingleQueue.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/queue/CreateQueueUsingTwoStacks.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/queue/CreateQueueUsingTwoStacks.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/queue/ReverseTheQueue.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/DeleteMiddleElementInStack.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/GameOfTwoStacks.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/GameOfTwoStacks.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/GameOfTwoStacks.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/HistrogramRectangleUsingStack.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/NextGreaterElement.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/StockSpanProblem.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/heap/MaxHeapAndMinHeap.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/heap/MaxHeapAndMinHeap.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/heap/MaxHeapAndMinHeap.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/heap/MaxHeapAndMinHeap.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/queue/InterchangeElements.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/array/MinmumSubsetOfArray.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/NumberTheory/PrimeNumberChecking.java</url>
+          <line>181</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/BubbleSort.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/InsertionSort.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/CountingSort.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/CountingSort.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearch.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/ReverseLinkedRecursive.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/bitmasking/LuckyNumber.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/array/PetrolPumpProblem.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/searching/findElementInSortedRoattedArray.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/MergeSort.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/MergeSort.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/MergeSort.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/QuickSort.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/sorting/QuickSort.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/searching/findElementInSortedRoattedArray.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/string/StringMatchingBruteForceAlgo.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/math/MatrixExponentionByFibonicSeries.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/math/MatrixExponentionByFibonicSeries.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/math/MatrixExponentionByFibonicSeries.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/hash/LargestSubArrayWIthSumZero.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/hash/LargestSubArrayWIthSumZero.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/hash/LargestSubArrayWIthSumZero.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/hash/LargestSubArrayWIthSumZero.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/hash/ContiguousSubarray.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/tree/BTInOrder.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPostOrder.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/tree/BTLevelOrder.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/tree/BTLevelOrder.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/tree/BTZigZagOrder.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/tree/BTVerticalOrder.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLeafToPathNodes.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLevelMaxSum.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="st2" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>al.get(it) + 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[pivot]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b[k]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>++b[a[i]]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b[a[i]]++</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>=b[a[i]]++</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b[a[i]]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7837">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+          <folding>
+            <element signature="e#22896#22897#0" expanded="true" />
+            <element signature="e#22925#22926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/NumberTheory/GCDCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/TrimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="107" column="24" lean-forward="true" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedListOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/ReverseLinkedRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/ReverseLinkedListIterative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/bitmasking/LuckyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/array/PetrolPumpProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchSqareRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchFirstOccurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchLastOccurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearchPivotElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="44" column="17" selection-start-line="39" selection-start-column="31" selection-end-line="44" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/hash/GFG.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/Tree.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/searching/findElementInSortedRoattedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/string/StringMatchingBruteForceAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/math/MatrixExponentionByFibonicSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/hash/ContiguousSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63359">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3621">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPreOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/NumberTheory/FastModExponention.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTLevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTZigZagOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTInOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="66" column="39" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTReverseLevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTSizeofTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTLCAOfTwoNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/hash/LargestSubArrayWIthSumZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTVerticalOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintKthLevelNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLevelMaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTMedianLevelOfTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPostOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTMirrorView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTPrintLeafToPathNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTLeftView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTHeightOfTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" selection-start-line="2" selection-start-column="13" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/tree/BTDiameterOfTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
