@@ -20,6 +20,8 @@ public class TreeNode {
     int data;
     TreeNode left;
     TreeNode right;
+    int height;
+    int size;
 
     public TreeNode(int data){
         this.left=null;
