@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class BalancedCharcter {
     public static void main(String args[]){
-        String balancedString="{([])()}";
+        String balancedString="{{)}";
         boolean answer=false;
         Stack st=new Stack<>();
         for(int i=0;i<balancedString.length();i++){

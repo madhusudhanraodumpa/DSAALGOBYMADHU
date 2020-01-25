@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MaxHeapAndMinHeap {
 
     public static void main(String[] args) {
-        int[] a = new int[8];
+        int[] a = new int[9];
         Scanner sc = new Scanner(System.in);
         int element = 0;
         while (element < a.length) {
@@ -23,17 +23,11 @@ public class MaxHeapAndMinHeap {
         int n = a.length;
         int iteration = 1;
 
+        System.out.println("Delete Heap");
         while (sizeofdeletednumber > 0) {
-
             delete(a, n);
             n = n - 1;
-
-            System.out.print("After deletion of " + iteration + " iteration ");
-            for (int i = 0; i < n; i++) {
-                System.out.print(" " + a[i]);
-            }
             System.out.println();
-
             sizeofdeletednumber--;
             iteration++;
         }
@@ -58,17 +52,12 @@ public class MaxHeapAndMinHeap {
                 } else {
                     return;
                 }
-
-
             }
-
-
         }
-
-
     }
 
     private static void delete(int[] a, int n) {
+        System.out.println(a[0]);
         a[0] = a[n - 1];
         n = n - 1;
         CompareWithChildrens(a, n);
@@ -91,6 +80,8 @@ public class MaxHeapAndMinHeap {
                     a[minChild] = a[parent];
                     a[parent] = temp;
                     i = minChild;
+                }else {
+                    return;
                 }
             } else {
                 return;

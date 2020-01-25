@@ -6,9 +6,8 @@ public class HistogramProblem {
 
         java.util.Stack<Character> s = new java.util.Stack<Character>();
 
-        int hist[] = {6,2,4,5,4,1,6 };
-        ;
-        int n = hist.length;
+        int hist[] = {2,1,5,6,2,3 };
+        ;        int n = hist.length;
         System.out.println(largestRectangleArea(hist));
 
     }
@@ -32,11 +31,8 @@ public class HistogramProblem {
                 i++;
             } else {
                 int top = stack.pop();
-                if (stack.isEmpty()) {
-                    area = height[top] * i;
-                } else {
-                    area = height[top] * (i - stack.peek() - 1);
-                }
+                int peekValue=stack.isEmpty()?-1:stack.peek();
+                area = height[top] * (i-peekValue-1);
                 if (area > max) {
                     max = area;
                 }
