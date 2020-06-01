@@ -2,7 +2,7 @@ package com.org.learnby.recursion;
 
 public class IsArraySorted {
     public static void main(String args[]){
-        int a[]={1,2,3,41,5};
+        int a[]={1,2,3,4,5};
         System.out.println(isSorted(a,a.length));
     }
 
