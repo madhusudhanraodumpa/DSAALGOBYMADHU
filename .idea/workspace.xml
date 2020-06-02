@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf39461f-fd3a-4495-b79c-1a3b5fcf608b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/bitmasking/CheckNumberisOddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/bitmasking/FastExponantion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/bitmasking/FindThreeIniqueNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/bitmasking/FindTwoIniqueNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/bitmasking/SubsetSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/FirstOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/Multipilcation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/NthFibonic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/META-INF/learn-by.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/heap/MaxHeapAndMinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/heap/MaxHeapAndMinHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/stack/BalancedCharcter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/stack/BalancedCharcter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/stack/HistogramProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/stack/HistogramProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTDiameterOfTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTDiameterOfTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTPostOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTPostOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTPreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTPreOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTVerticalOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTVerticalOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/recursion/IsArraySorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/IsArraySorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/recursion/AllOcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/AllOcc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/recursion/ConvertStringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/ConvertStringToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/recursion/FriendsPairingProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/FriendsPairingProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/recursion/LadderProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/LadderProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/recursion/ReplacePIvalue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/ReplacePIvalue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/recursion/TillingProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/TillingProblem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,95 +26,107 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/bitmasking/LuckyNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/Power.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/NthFibonic.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="57">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/ConvertStringToInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/IsArraySorted.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/ReplacePIvalue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="220">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/PowerUsingRecursion.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/TillingProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/BinarySearch.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/LadderProblem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/Multipilcation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/Power.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="19" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/FriendsPairingProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/array/EveneFibaonicSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/FirstOccurance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/AbstractCollection.java">
+        <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/AllOcc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4896">
-              <caret line="315" column="19" selection-start-line="315" selection-start-column="19" selection-end-line="315" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -155,6 +150,8 @@
       <find>Compa</find>
       <find>coma</find>
       <find>heap</find>
+      <find>Syste</find>
+      <find>problem</find>
     </findStrings>
     <replaceStrings>
       <replace>EdgeT</replace>
@@ -166,13 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/org/learnby/graph/DfsConnectedComponents.java" />
-        <option value="$PROJECT_DIR$/src/com/org/learnby/graph/GraphDfsRecursion.java" />
-        <option value="$PROJECT_DIR$/src/com/org/learnby/graph/TopologicalSortUsingBFS.java" />
-        <option value="$PROJECT_DIR$/src/com/org/learnby/graph/TooppologicalSortUsingDFS.java" />
-        <option value="$PROJECT_DIR$/src/com/org/learnby/graph/UnDirectedGraphCyclicBFS.java" />
-        <option value="$PROJECT_DIR$/src/com/org/learnby/graph/UndirectedGraphCyclicDFS.java" />
-        <option value="$PROJECT_DIR$/src/com/org/learnby/graph/IsBipartiteGraph.java" />
         <option value="$PROJECT_DIR$/src/com/org/learnby/graph/DisjointSet.java" />
         <option value="$PROJECT_DIR$/src/com/org/learnby/graph/KrushkalAlgoMST.java" />
         <option value="$PROJECT_DIR$/src/com/org/learnby/graph/GraphT.java" />
@@ -217,10 +207,17 @@
         <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/Multipilcation.java" />
         <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/Power.java" />
         <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/FirstOccurance.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/AllOcc.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/ConvertStringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/ReplacePIvalue.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/TillingProblem.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/LadderProblem.java" />
+        <option value="$PROJECT_DIR$/src/com/org/learnby/recursion/FriendsPairingProblem.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1015" />
@@ -233,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,6 +277,14 @@
               <item name="learn-by" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="learnby" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-by" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-by" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -286,7 +292,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,9 +321,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstOccurance">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.BinarySearch" />
+  <component name="RunManager" selected="Application.FriendsPairingProblem">
+    <configuration name="ConvertStringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.ConvertStringToInteger" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
@@ -330,8 +335,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.FirstOccurance" />
+    <configuration name="FriendsPairingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.FriendsPairingProblem" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
@@ -343,8 +348,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsArraySorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.IsArraySorted" />
+    <configuration name="LadderProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.LadderProblem" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
@@ -356,8 +361,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multipilcation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.Multipilcation" />
+    <configuration name="ReplacePIvalue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.ReplacePIvalue" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
@@ -369,8 +374,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.Power" />
+    <configuration name="TillingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.recursion.TillingProblem" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
@@ -384,11 +389,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstOccurance" />
-        <item itemvalue="Application.Power" />
-        <item itemvalue="Application.Multipilcation" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.IsArraySorted" />
+        <item itemvalue="Application.FriendsPairingProblem" />
+        <item itemvalue="Application.LadderProblem" />
+        <item itemvalue="Application.TillingProblem" />
+        <item itemvalue="Application.ReplacePIvalue" />
+        <item itemvalue="Application.ConvertStringToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -443,13 +448,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183790000" />
+    <option name="totallyTimeSpent" value="195892000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="817" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="817" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992785" visible="true" weight="0.295302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992785" visible="true" weight="0.29932886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -458,8 +463,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.5007215" side_tool="true" weight="0.29194632" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.20490621" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20996979" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.54531723" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35347432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4486405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -471,7 +476,7 @@
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32779455" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Maven" order="5" />
@@ -480,7 +485,7 @@
       <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992785" visible="true" weight="0.33892617" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992785" weight="0.29932886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,9 +493,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5007215" side_tool="true" weight="0.29194632" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.20490621" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21500722" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36796537" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.20490621" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35347432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4486405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -499,10 +504,10 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32756132" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32779455" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Maven" order="5" />
@@ -871,6 +876,24 @@
           <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/recursion/AllOcc.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/recursion/ConvertStringToInteger.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/recursion/ReplacePIvalue.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/graph/GraphBFS.java</url>
           <line>22</line>
@@ -892,6 +915,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>s.charAt(n-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>a[i]</expression-string>
         <language-id>JAVA</language-id>
@@ -932,76 +960,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>entry.getKey()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/org/leetcode/heap/MinimumCosttoHireKWorkers_857.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="116" column="11" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/leetcode/heap/SlidingWindowMaximum_239.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/stack/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/stack/NextGreaterElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/stack/BalancedCharcter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/leetcode/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/leetcode/stack/ValidParentheses_20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -1273,18 +1234,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/learnby/bitmasking/LuckyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/NthFibonic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="85">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
             <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1299,7 +1260,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/Multipilcation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1310,24 +1271,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+          <caret line="19" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/FirstOccurance.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/AllOcc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/sorting/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/ConvertStringToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/array/EveneFibaonicSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/ReplacePIvalue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/TillingProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <caret line="13" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/LadderProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/org/learnby/recursion/FriendsPairingProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
