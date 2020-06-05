@@ -12,7 +12,7 @@ public class NQueenSolution {
         String[][] board=new String[10][10];
 
 
-        int n=4;
+        int n=9;
         int i=0;
         solveNQueen(board,i,n);
         System.out.println("Total possible ways is "+count);
