@@ -58,6 +58,7 @@ public class MinHeap {
                     break;
                 }
             }else {
+                //it will call only two elements in the array.
                 if(n==1 && arr[0]>arr[1]){
                     int temp=arr[0];
                     arr[0]=arr[1];

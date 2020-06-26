@@ -22,20 +22,20 @@ public class FindMedianfromDataStream_295 {
     }
 
     public static void main(String args[]) {
-        int arr[] = {10,9,8,7,6,5,4,3,2,1};
+        int arr[] = {1,2};
         FindMedianfromDataStream_295 f = new FindMedianfromDataStream_295();
 
         for (int i = 0; i < arr.length; i++) {
 
             f.addNum(arr[i]);
-            System.out.println((i+1)+" median is "+f.findMedian());
-        }
 
+        }
+        System.out.println(" median is "+f.findMedian());
     }
 
     public void addNum(int num) {
 
-        if (maxHeap.size() == 0 && minHeap.size() == 0) {
+        /*if (maxHeap.size() == 0 && minHeap.size() == 0) {
             maxHeap.add(num);
             median = maxHeap.peek();
         } else if (maxHeap.size() == 0 || minHeap.size() == 0) {
@@ -80,12 +80,32 @@ public class FindMedianfromDataStream_295 {
                 }
 
 
+        }*/
+        if(maxHeap.size()==0 || maxHeap.peek()>num){
+            maxHeap.add(num);
+        }else{
+            minHeap.add(num);
+        }
+        //balancing
+        if(maxHeap.size()>minHeap.size()+1){
+          minHeap.add(maxHeap.peek());
+          maxHeap.poll();
+        }
+        if(maxHeap.size()<minHeap.size()){
+            maxHeap.add(minHeap.peek());
+            minHeap.poll();
         }
 
     }
 
     public double findMedian() {
-        return median;
+        //return median;
+        if((maxHeap.size()+minHeap.size())%2==0){
+            return maxHeap.peek()/2.0+minHeap.peek()/2.0;
+        }else {
+            return maxHeap.peek();
+        }
+
     }
 
 

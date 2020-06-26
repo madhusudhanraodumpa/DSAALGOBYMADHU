@@ -24,6 +24,7 @@ public class SlidingWindowMaximum_239 {
             return arr;
         }
         Deque<Integer> dq=new LinkedList<>();
+
         int[] window=new int[nums.length-k+1];
         int count=0;
         for(int i=0;i<k;i++){

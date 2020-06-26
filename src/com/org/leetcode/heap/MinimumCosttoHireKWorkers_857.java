@@ -13,7 +13,7 @@ public class MinimumCosttoHireKWorkers_857 {
             int[] quality = {3,1,10,10,1};
             int[] wage ={4,8,2,2,7};
             int K = 3;
-            System.out.print(m.mincostToHireWorkers(quality,wage,3));
+            System.out.print(m.mincostToHireWorkers1(quality,wage,3));
         }
 
         public double mincostToHireWorkers(int[] quality, int[] wage, int K) {
@@ -33,7 +33,7 @@ public class MinimumCosttoHireKWorkers_857 {
                 }
 
                 if (t < K) continue;
-                Arrays.sort(prices, 0, t);
+               Arrays.sort(prices, 0, t);
                 double cand = 0;
                 for (int i = 0; i < K; ++i)
                     cand += prices[i];

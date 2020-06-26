@@ -2,7 +2,7 @@ package com.org.learnby.recursion;
 
 public class Power {
     public static void main(String args[]){
-        System.out.println(power(3,4));
+        System.out.println(power(2,-2));
 
     }
     public static int power(int a,int b){
@@ -14,4 +14,5 @@ public class Power {
         }
         return half_power*half_power;
     }
+
 }

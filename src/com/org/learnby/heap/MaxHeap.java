@@ -35,8 +35,7 @@ public class MaxHeap {
     }
 
     public void delete(int[] arr, int n) {
-      //  System.out.println(arr[0]);
-       // sort[x]=arr[0];
+
             arr[0]=arr[n];
             arr[n]=0;
             n=n-1;
