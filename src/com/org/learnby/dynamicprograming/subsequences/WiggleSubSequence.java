@@ -2,7 +2,7 @@ package com.org.learnby.dynamicprograming.subsequences;
 
 public class WiggleSubSequence {
     public static void main(String args[]){
-        int a[]={1,7,4,9,2,5};
+        int a[]={1,17,5,10,13,15,10,5,16,8};
         System.out.println(wiggleMaxLengthOpt(a));
     }
     public static int wiggleMaxLength(int[] nums) {

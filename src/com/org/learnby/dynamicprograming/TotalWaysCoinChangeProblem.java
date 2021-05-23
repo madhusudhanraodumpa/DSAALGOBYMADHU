@@ -7,6 +7,7 @@ public class TotalWaysCoinChangeProblem {
         int[] coins = {1, 2, 3,4};
        // System.out.println(minCoins(dp, n, coins));
         System.out.println(totalWaysCoin(n, coins));
+        System.out.println(numOfWays(n, coins));
 
     }
 
@@ -28,6 +29,31 @@ public class TotalWaysCoinChangeProblem {
 
 
     }
+    public static int numOfWays(int n, int[] coins){
+
+        int[][] dp = new int[coins.length][n+1];
+        for(int i =0 ;i<coins.length;i++){
+            dp[i][0] = 1;
+        }
+        for(int i= 0;i<coins.length;i++){
+            for(int j =1;j<n+1;j++){
+                if(j<coins[i]){
+                    dp[i][j] = dp[i-1][j];
+                }else{
+                    if(i == 0){
+                        dp[i][j] = dp[i][j-coins[i]];
+                    }else {
+                        int excludeCoin = dp[i - 1][j];
+                        int includeCoin = dp[i][j - coins[i]];
+                        dp[i][j] = includeCoin + excludeCoin;
+                    }
+                }
+            }
+        }
+        return dp[coins.length-1][n];
+
+    }
+
     public static int totalWaysCoin(int n, int[] coins) {
       int[][] dp=new int[coins.length][n+1];
 

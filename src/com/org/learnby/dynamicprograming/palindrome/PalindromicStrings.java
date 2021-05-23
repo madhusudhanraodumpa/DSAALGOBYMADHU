@@ -1,6 +1,7 @@
 package com.org.learnby.dynamicprograming.palindrome;
 
 public class PalindromicStrings {
+    int count1=0;
     public static void main(String args[]){
         System.out.println(countSubstrings("aaa"));
     }
@@ -26,5 +27,25 @@ public class PalindromicStrings {
             }
         }
         return count;
+    }
+
+    public int countSubstringsOpt(String s) {
+        if (s == null || s.length() == 0) {
+            return 0;
+        }
+        for (int i = 0; i < s.length(); i++) {
+            findPalindrome(s, i, i);
+            findPalindrome(s, i, i + 1);
+        }
+        return count1;
+    }
+
+    private void findPalindrome(String s, int l, int r) {
+        int len = s.length();
+        while (l >= 0 && r < len && s.charAt(l) == s.charAt(r)) {
+            count1++;
+            l--;
+            r++;
+        }
     }
 }

@@ -6,7 +6,8 @@ public class MinCoinChangeProblemBottomUpApproch {
         int dp[] = new int[n + 1];
         int[] coins = {2};
         System.out.println(minCoins(dp, n, coins));
-        System.out.println(minCoins2D(n, coins));
+        System.out.println(minCoinsSimplefy(n,coins));
+        //System.out.println(minCoins2D(n, coins));
 
     }
 
@@ -27,7 +28,19 @@ public class MinCoinChangeProblemBottomUpApproch {
             }
         }
         return dp[n]!=Integer.MAX_VALUE?dp[n]:-1;
-
+    }
+    public static int minCoinsSimplefy(int A, int[] coins) {
+        int[] N = new int[A+1];
+        N[0] =0;
+        for( int i =1;i<=A;i++){
+            N[i] = Integer.MAX_VALUE;
+            for(int j=0;j<coins.length;j++){
+                if(i-coins[j]>=0){
+                    N[i] = Math.min(N[i],N[i-coins[j]]!=Integer.MAX_VALUE?N[i-coins[j]]+1:Integer.MAX_VALUE);
+                }
+            }
+        }
+        return N[A]!=Integer.MAX_VALUE ?N[A]:-1;
 
     }
     public static int minCoins2D(int n, int[] coins) {

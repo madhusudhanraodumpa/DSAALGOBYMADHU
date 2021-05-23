@@ -15,10 +15,10 @@ public class LongestArithmeticSubsequenceofGivenDifference {
         int n=arr.length;
         int ans=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
-            int len=1;
+            int len=0;
             int value=arr[i];
             for(int j=i+1;j<n;j++){
-                if(arr[j]-value == difference){
+                if(Math.abs(arr[j]-value) == Math.abs(difference)){
 
                     ans=Math.max(ans,++len);
                     value=arr[j];

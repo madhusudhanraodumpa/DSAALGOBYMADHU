@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MinimumInsertionStepstoMakeaStringPalindrome {
     public static void main(String args[]) {
 
-        System.out.println(minInsertions("ghiabcdefhelloadamhelloabcdefghi"));
+        System.out.println(minInsertionsDPModify("leetcode","leetcode".length()));
     }
 
 
@@ -43,5 +43,23 @@ public class MinimumInsertionStepstoMakeaStringPalindrome {
           }
       }
         return dp[0][n-1];
+    }
+    public static int minInsertionsDPModify(String s, int n) {
+        int[][] dp = new int[s.length()][s.length()];
+        for(int len=2;len<=n;len++){
+            for(int i=0;i<n-len+1;i++){
+                int j = len+i-1;
+                if(s.charAt(i) == s.charAt(j)){
+                    dp[i][j] = dp[i+1][j-1];
+                }else{
+                    if(len ==2){
+                        dp[i][j] =1;
+                    }else {
+                        dp[i][j] = 1 + Math.min(dp[i + 1][j], dp[i][j - 1]);
+                    }
+                }
+            }
+        }
+       return dp[0][n-1];
     }
 }

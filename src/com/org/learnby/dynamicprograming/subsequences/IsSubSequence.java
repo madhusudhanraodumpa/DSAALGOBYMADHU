@@ -2,7 +2,7 @@ package com.org.learnby.dynamicprograming.subsequences;
 
 public class IsSubSequence {
     public static void main(String args[]) {
-        System.out.println(isSubsequence("axc", "ahbgdc"));
+        System.out.println(isSubsequence("axc", "ahbxdc"));
     }
 
     public static boolean isSubsequence(String s, String t) {

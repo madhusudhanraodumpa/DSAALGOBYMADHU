@@ -1,14 +1,11 @@
 package com.org.learnby.dynamicprograming.subsequences;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class LongestFibonacciSubsequence {
     public static void main(String args[]){
         int a[]={1,2,3,4,5,6,7,8};
-        System.out.println(lenLongestFibSubseq(a));
+        System.out.println(lenLongestFibSubseqDpOpt(a));
     }
     public static int lenLongestFibSubseq(int[] A) {
         HashSet<Integer> nums = new HashSet<>();
@@ -85,5 +82,34 @@ public class LongestFibonacciSubsequence {
             }
             }
         return res==2 ?0:res;
+    }
+
+    // revision
+
+    public static int lengthFibonicSubSequence(int a[], int n){
+        Set<Integer> set = new TreeSet<>();
+        for(int i =0;i<n;i++){
+            set.add(a[i]);
+        }
+        int maxLen = 2;
+        for( int i = 0;i<n;i++){
+            for(int j =i+1;j<n;j++){
+                int len = 2;
+                int x = a[i];
+                int y = a[j];
+                while(set.contains(x+y)){
+                    len++;
+                   int temp = x+y;
+                   x = y;
+                   y = temp;
+                }
+                if(len>maxLen){
+                    maxLen =len;
+                }
+
+
+            }
+        }
+        return maxLen;
     }
     }
