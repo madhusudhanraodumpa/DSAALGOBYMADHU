@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.webanalytics:webanalytics-common:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/webanalytics/webanalytics-common/6.0.0.0-SNAPSHOT/webanalytics-common-6.0.0.0-20220224.141519-4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/webanalytics/webanalytics-common/6.0.0.0-SNAPSHOT/webanalytics-common-6.0.0.0-20220224.141519-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/webanalytics/webanalytics-common/6.0.0.0-SNAPSHOT/webanalytics-common-6.0.0.0-20220224.141519-4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

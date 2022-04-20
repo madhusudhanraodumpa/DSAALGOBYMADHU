@@ -1,6 +1,5 @@
 package com.org.leetcode.math;
 
-import com.sun.deploy.util.SyncAccess;
 
 public class Maximum69Number_1323 {
     public int Maximum69Number_1323 (int num) {

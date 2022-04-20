@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudformation:1.11.509">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-cloudformation/1.11.509/aws-java-sdk-cloudformation-1.11.509.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-cloudformation/1.11.509/aws-java-sdk-cloudformation-1.11.509-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-cloudformation/1.11.509/aws-java-sdk-cloudformation-1.11.509-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

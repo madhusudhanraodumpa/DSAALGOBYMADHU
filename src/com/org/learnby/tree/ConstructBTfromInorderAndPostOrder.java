@@ -19,8 +19,8 @@ public class ConstructBTfromInorderAndPostOrder {
         BTInOrder.inOrderRecursive(root);
         System.out.println();
         BTPostOrder.postOrderRecursive(root);*/
-        int in[]={4,8,2,5,1,6,3,7};
-        int post[]={8,4,5,2,6,7,3,1};
+        int in[]={9,3,15,20,7};
+        int post[]={9,15,7,20,3};
         Map<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<in.length;i++){
             map.put(in[i],i);
@@ -41,8 +41,9 @@ public class ConstructBTfromInorderAndPostOrder {
         postIndex--;
         if(start==end) return root;
         int index=map.get(root.data);
-        root.right=constructBT(index+1,end,in,post,map,postIndex);
         root.left=constructBT(start,index-1,in,post,map,postIndex);
+        root.right=constructBT(index+1,end,in,post,map,postIndex);
+
         return root;
 
 

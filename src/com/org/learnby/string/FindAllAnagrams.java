@@ -5,7 +5,9 @@ import java.util.List;
 
 public class FindAllAnagrams {
     public static void main(String args[]){
-
+        String str = "cbaebabacd";
+        String ptr = "abc";
+        findAnagrams(str,ptr);
     }
     public static List<Integer> findAnagrams(String s, String p) {
         List<Integer> result = new ArrayList<>();
@@ -27,7 +29,7 @@ public class FindAllAnagrams {
                     result.add(i);
                 }
                 sArr[s.charAt(i)-'a']--;
-                sArr[s.charAt(i+pLen)]++;
+                sArr[s.charAt(i+pLen)-'a']++;
         }
         if(isAnagram(pArr,sArr)){
             result.add(sLen-pLen);

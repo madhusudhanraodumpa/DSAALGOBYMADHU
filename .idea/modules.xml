@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/learn-by.iml" filepath="$PROJECT_DIR$/learn-by.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../shn/reportingService/reporting.iml" filepath="$PROJECT_DIR$/../../../shn/reportingService/reporting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../shn/reportingService/client/reporting-client.iml" filepath="$PROJECT_DIR$/../../../shn/reportingService/client/reporting-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../shn/reportingService/common/reporting-common.iml" filepath="$PROJECT_DIR$/../../../shn/reportingService/common/reporting-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../shn/reportingService/rabbitmq/reporting-rabbitmq.iml" filepath="$PROJECT_DIR$/../../../shn/reportingService/rabbitmq/reporting-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../shn/reportingService/server/reporting-server.iml" filepath="$PROJECT_DIR$/../../../shn/reportingService/server/reporting-server.iml" />
     </modules>
   </component>
 </project>

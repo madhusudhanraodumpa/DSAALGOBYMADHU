@@ -2,8 +2,57 @@ package com.org.learnby.dynamicprograming;
 
 public class SubSetSumPartitionProblem {
     public static void main(String args[]) {
-        int[] a = {1, 2, 3, 5, 7};
-        System.out.println(canPartition(a));
+        int[] a = {1, 5, 11, 5};
+        System.out.println(canPartition1(a));
+    }
+
+
+
+    public static boolean canPartition1(int[] a) {
+        int sum=0;
+        int n=a.length;
+        for(int i=0;i<n;i++){
+            sum+=a[i];
+        }
+        if(sum%2!=0){
+            return false;
+        }else{
+            return isSubsetSum(sum/2,a,n);
+        }
+
+    }
+    private static boolean isSubsetSum(int sum,int[] a,int n){
+
+
+        boolean[][] dp=new boolean[n+1][sum+1];
+
+        for(int i=0;i<n+1;i++){
+            for(int j=0;j<sum+1;j++){
+                if(i==0) {
+                    if(j==0){
+                        dp[i][j] = true;
+                    }else {
+                        dp[i][j] = false;
+                    }
+                }
+                else if(j==0) {dp[i][j]=true;}
+
+                else if(a[i-1]<=j){
+
+                    boolean include=dp[i-1][j-a[i-1]];
+                    boolean exclude=dp[i-1][j];
+                    dp[i][j]= include||exclude;
+
+                }else{
+                    dp[i][j]=dp[i-1][j];
+                }
+            }
+        }
+
+        return dp[n][sum];
+
+
+
     }
 
     private static boolean equalPartionExists(int[] a) {

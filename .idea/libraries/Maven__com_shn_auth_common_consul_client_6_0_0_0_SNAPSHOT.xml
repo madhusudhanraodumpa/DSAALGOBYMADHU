@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.auth.common:consul-client:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/auth/common/consul-client/6.0.0.0-SNAPSHOT/consul-client-6.0.0.0-20220223.004128-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/auth/common/consul-client/6.0.0.0-SNAPSHOT/consul-client-6.0.0.0-20220223.004128-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/auth/common/consul-client/6.0.0.0-SNAPSHOT/consul-client-6.0.0.0-20220223.004128-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

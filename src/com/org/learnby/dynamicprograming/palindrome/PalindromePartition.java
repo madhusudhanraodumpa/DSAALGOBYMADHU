@@ -7,8 +7,8 @@ public class PalindromePartition {
     public static void main(String args[]){
         String s="banana";
         //System.out.println(minCut(s,0,s.length()-1));
-        System.out.println(minCutDP(s));
-        System.out.println(minCutDPOpt(s));
+       // System.out.println(minCutDP(s));
+        //System.out.println(minCutDPOpt(s));
         partition("radar");
 
     }

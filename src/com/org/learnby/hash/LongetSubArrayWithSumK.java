@@ -4,8 +4,8 @@ import java.util.HashMap;
 
 public class LongetSubArrayWithSumK {
     public static void main(String args[]){
-        int a[]={1,-1,5,-2,3};
-        int k=10;
+        int a[]={4,1,1,1,2,3,5};
+        int k=5;
         System.out.println(longestSubArrayWithSum(a,a.length,k));
     }
 

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.vm:vm-common:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/vm/vm-common/6.0.0.0-SNAPSHOT/vm-common-6.0.0.0-20220223.003525-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/vm/vm-common/6.0.0.0-SNAPSHOT/vm-common-6.0.0.0-20220223.003525-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/vm/vm-common/6.0.0.0-SNAPSHOT/vm-common-6.0.0.0-20220223.003525-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

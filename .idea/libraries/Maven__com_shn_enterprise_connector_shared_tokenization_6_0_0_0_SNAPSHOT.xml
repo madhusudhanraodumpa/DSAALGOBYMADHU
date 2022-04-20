@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.enterprise-connector-shared:tokenization:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/enterprise-connector-shared/tokenization/6.0.0.0-SNAPSHOT/tokenization-6.0.0.0-20220223.002045-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/enterprise-connector-shared/tokenization/6.0.0.0-SNAPSHOT/tokenization-6.0.0.0-20220223.002045-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/enterprise-connector-shared/tokenization/6.0.0.0-SNAPSHOT/tokenization-6.0.0.0-20220223.002045-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="reporting-rabbitmq" />
+        <module name="reporting-server" />
+        <module name="reporting-client" />
+        <module name="reporting-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="reporting" target="1.8" />
+      <module name="reporting-client" target="1.8" />
+      <module name="reporting-common" target="1.8" />
+      <module name="reporting-rabbitmq" target="1.8" />
+      <module name="reporting-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

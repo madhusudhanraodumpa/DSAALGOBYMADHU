@@ -6,8 +6,8 @@ public class StackUsingSingleQueue {
     public static void main(String args[]) {
 
 
-       // StackUsing1QueueEnQueueCostly q1 = new StackUsing1QueueEnQueueCostly();
-        StackUsing1QueueDeQueueCostly q1=new StackUsing1QueueDeQueueCostly();
+        StackUsing1QueueEnQueueCostly q1 = new StackUsing1QueueEnQueueCostly();
+       // StackUsing1QueueDeQueueCostly q1=new StackUsing1QueueDeQueueCostly();
         int a[] = {1, 2, 3, 4, 5};
         for (int i : a) {
             q1.push(i);

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.serviceworkflow:serviceworkflow-client:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/serviceworkflow/serviceworkflow-client/6.0.0.0-SNAPSHOT/serviceworkflow-client-6.0.0.0-20220224.083022-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/serviceworkflow/serviceworkflow-client/6.0.0.0-SNAPSHOT/serviceworkflow-client-6.0.0.0-20220224.083022-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/serviceworkflow/serviceworkflow-client/6.0.0.0-SNAPSHOT/serviceworkflow-client-6.0.0.0-20220224.083022-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

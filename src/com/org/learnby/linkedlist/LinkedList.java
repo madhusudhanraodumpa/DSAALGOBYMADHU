@@ -11,8 +11,9 @@ public class LinkedList {
     public Node getHead() {
         return head;
     }
-    public void setHead(Node head){
-        this.head=head;
+
+    public void setHead(Node head) {
+        this.head = head;
     }
 
     public void insertAtEnd(int data) {
@@ -70,6 +71,33 @@ public class LinkedList {
             temp = temp.next;
         }
         previous.next = null;
+    }
+
+    public Node oddEvenList(Node head) {
+
+        Node odd=new Node(-1);
+        Node pOdd=odd;
+        Node even=new Node(-1);
+        Node pEven=even;
+        Node cur=head;
+        while(cur!=null){
+            if(cur.data%2==0){
+                pEven.next=cur;
+                pEven=pEven.next;
+
+            }else{
+                pOdd.next=cur;
+                pOdd=pOdd.next;
+            }
+
+            cur=cur.next;
+
+        }
+        pEven.next=odd.next;
+        pOdd.next=null;
+
+
+        return pEven.next;
     }
 
     public void deleteNodeByNumber(int data) {
@@ -173,17 +201,101 @@ public class LinkedList {
     }
 
     public Node reverseList(Node head) {
-        if(head==null || head.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
 
         Node node = reverseList(head.next);
         head.next.next = head;
-        head.next=null;
+        head.next = null;
         return node;
 
     }
 
+    public Node reverseBetween(Node head, int m, int n){
+        Node dummy=new Node(-1);
+        dummy.next=head;
+        head=dummy;
+        Node p1=null;
+        Node c1=dummy;
+        int count=n-m;
+
+        while(m>0 && c1!=null){
+            p1=c1;
+            c1=c1.next;
+            m--;
+        }
+        Node c2=c1;
+        Node p2=p1;
+        Node temp=null;
+
+        while(count>0 && c2!=null){
+            temp=c2.next;
+            c2.next=p2;
+            p2=c2;
+            c2=temp;
+            count--;
+
+
+        }
+        p1.next=p2;
+        c1.next=c2;
+        return dummy.next;
+        }
+    public Node rotateRight(Node head, int k) {
+        if(head==null || head.next==null || k==0) return head;
+
+        int len=1;
+        Node cur=head;
+        while(cur.next!=null){
+            cur=cur.next;
+            len++;
+        }
+        cur.next=head;
+        k=k%len;
+        k=len-k;
+        while(k>0){
+            cur=cur.next;
+            k--;
+
+        }
+        head=cur.next;
+        cur.next=null;
+        return head;
+
+
+        /** ListNode dummy=new ListNode();
+         dummy.next=head;
+         ListNode c1=dummy;
+         ListNode c2=dummy;
+         ListNode prev=dummy;
+         ListNode prev1=dummy;
+
+         while(k>0){
+         c1=c1.next;
+         k--;
+         }
+         while(c1!=null && c2!=null){
+         prev=c2;
+         c1=c1.next;
+         c2=c2.next;
+
+         }
+         prev.next=null;
+         ListNode nHead=c2;
+         ListNode c3=nHead;
+         while(c3.next!=null){
+         c3=c3.next;
+         }
+         c3.next=dummy.next;
+
+
+
+         return nHead;
+         **/
+
+
+    }
 
     public Node reverseRecursiveByP(Node node) {
 
@@ -277,6 +389,46 @@ public class LinkedList {
             return node.next;
         }
         return null;
+    }
+
+    public boolean isPalindromP(Node head) {
+        if(head==null || head.next==null) return true;
+        Node slow=head;
+        Node fast=head;
+        while(fast.next!=null &&fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        Node nHead=slow.next;
+        slow.next=null;
+
+        Node cur=nHead;
+        Node prev=null;
+        Node temp=null;
+        while(cur!=null){
+            temp=cur.next;
+            cur.next=prev;
+            prev=cur;
+            cur=temp;
+        }
+
+        nHead=prev;
+
+        while(head!=null && nHead!=null){
+            if(head.data!=nHead.data){
+
+                return false;
+
+            }
+            head=head.next;
+            nHead=nHead.next;
+
+
+        }
+
+        return true;
+
+
     }
 
     public boolean detectLoop(Node node) {

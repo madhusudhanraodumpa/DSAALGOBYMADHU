@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.aeon:aeon:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/aeon/aeon/6.0.0.0-SNAPSHOT/aeon-6.0.0.0-20220223.000526-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/aeon/aeon/6.0.0.0-SNAPSHOT/aeon-6.0.0.0-20220223.000526-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/aeon/aeon/6.0.0.0-SNAPSHOT/aeon-6.0.0.0-20220223.000526-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

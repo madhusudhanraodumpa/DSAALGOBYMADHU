@@ -8,7 +8,7 @@ package com.org.learnby.dynamicprograming;
  https://www.youtube.com/watch?v=kMK148J9qEE*/
 public class MatrixChainMultiplication {
     public static void main(String args[]){
-        int a[]={1, 2, 3, 4, 3};
+        int a[]={40, 20, 30, 10, 30};
         System.out.println(minCost(a,1,a.length-1));
         int[][] dp = new int[a.length][a.length];
         System.out.println(minCostBottomUpDP(a,1,a.length-1,dp));

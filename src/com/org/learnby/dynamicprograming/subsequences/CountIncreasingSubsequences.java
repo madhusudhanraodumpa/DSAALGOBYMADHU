@@ -1,41 +1,51 @@
 package com.org.learnby.dynamicprograming.subsequences;
 
+import java.util.Arrays;
+
 public class CountIncreasingSubsequences {
     public static void main(String[] args)
     {
-        int arr[] = {1,2,3};
+        int arr[] = {1,3,5,4,7};
         int n = arr.length;
 
-        System.out.println(countSub(arr,n));
+        System.out.println(findNumberOfLIS(arr));
     }
-    static int countSub(int arr[], int n)
-    {
-        // count[] array is used to store all
-        // sub-sequences possible using that
-        // digit count[] array covers all
-        // the digit from 0 to 9
-        int count[] = new int[10];
+    public static int findNumberOfLIS(int[] nums) {
+        int n=nums.length;
+        int[] dp=new int[n];
+        int[] c=new int[n];
 
-        // scan each digit in arr[]
-        for (int i = 0; i < n; i++)
+        Arrays.fill(dp,1);
+        Arrays.fill(c,1);
+
+        int max=1;
+
+        for(int i=1;i<n;i++)
         {
-            // count all possible sub-
-            // sequences by the digits
-            // less than arr[i] digit
-            for (int j = arr[i] - 1; j >= 0; j--)
-                count[arr[i]] += count[j];
+            for(int j=0;j<i;j++)
+            {
+                if(nums[i]>nums[j])
+                {
+                    if(dp[j]+1 > dp[i])//same subsequence
+                    {
+                        dp[i]=dp[j]+1;
+                        c[i]=c[j];
+                    }
+                    else if(dp[j]+1==dp[i])//different subsequence
+                    {
+                        c[i]+=c[j];
+                    }
 
-            // store sum of all sub-sequences
-            // plus 1 in count[] array
-            count[arr[i]]++;
+                }
+            }
+            max=Math.max(dp[i],max);
         }
 
-        // now sum up the all sequences
-        // possible in count[] array
-        int result = 0;
-        for (int i = 0; i < 10; i++)
-            result += count[i];
+        int count=0;
+        for(int i=0;i<n;i++)
+            if(dp[i]==max)
+                count+=c[i];
 
-        return result;
+        return count;
     }
 }

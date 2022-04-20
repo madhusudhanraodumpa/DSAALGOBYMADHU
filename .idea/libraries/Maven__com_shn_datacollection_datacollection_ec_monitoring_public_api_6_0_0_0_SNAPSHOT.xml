@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.datacollection:datacollection-ec-monitoring-public-api:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/datacollection/datacollection-ec-monitoring-public-api/6.0.0.0-SNAPSHOT/datacollection-ec-monitoring-public-api-6.0.0.0-20220223.002212-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/datacollection/datacollection-ec-monitoring-public-api/6.0.0.0-SNAPSHOT/datacollection-ec-monitoring-public-api-6.0.0.0-20220223.002212-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/datacollection/datacollection-ec-monitoring-public-api/6.0.0.0-SNAPSHOT/datacollection-ec-monitoring-public-api-6.0.0.0-20220223.002212-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

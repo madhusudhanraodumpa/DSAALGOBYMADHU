@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.policy:policy-common:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/policy/policy-common/6.0.0.0-SNAPSHOT/policy-common-6.0.0.0-20220223.111714-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/policy/policy-common/6.0.0.0-SNAPSHOT/policy-common-6.0.0.0-20220223.111714-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/policy/policy-common/6.0.0.0-SNAPSHOT/policy-common-6.0.0.0-20220223.111714-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -17,9 +17,9 @@ public class TreeNode {
         this.right = right;
     }
 
-    int data;
-    TreeNode left;
-    TreeNode right;
+    public int data;
+    public TreeNode left;
+    public TreeNode right;
     int height;
     int size;
 

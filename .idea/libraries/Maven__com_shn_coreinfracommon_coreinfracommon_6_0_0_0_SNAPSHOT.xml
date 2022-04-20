@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.coreinfracommon:coreinfracommon:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/coreinfracommon/coreinfracommon/6.0.0.0-SNAPSHOT/coreinfracommon-6.0.0.0-20220223.110933-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/coreinfracommon/coreinfracommon/6.0.0.0-SNAPSHOT/coreinfracommon-6.0.0.0-20220223.110933-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/coreinfracommon/coreinfracommon/6.0.0.0-SNAPSHOT/coreinfracommon-6.0.0.0-20220223.110933-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

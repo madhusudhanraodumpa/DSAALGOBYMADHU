@@ -22,7 +22,7 @@ public class ConstrcutBTfromINOrderAndPreOrder {
 
     }
 
-    private static TreeNode constructBinaryTree(int start, int end, int[] preOrder, Map<Integer, Integer> map) {
+    public static TreeNode constructBinaryTree(int start, int end, int[] preOrder, Map<Integer, Integer> map) {
     if(start>end) return null;
     TreeNode root=new TreeNode(preOrder[preIndex]);
     preIndex++;

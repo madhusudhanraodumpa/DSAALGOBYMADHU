@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.config.audit:config-audit-model:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/config/audit/config-audit-model/6.0.0.0-SNAPSHOT/config-audit-model-6.0.0.0-20220225.085121-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/config/audit/config-audit-model/6.0.0.0-SNAPSHOT/config-audit-model-6.0.0.0-20220225.085121-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/config/audit/config-audit-model/6.0.0.0-SNAPSHOT/config-audit-model-6.0.0.0-20220225.085121-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

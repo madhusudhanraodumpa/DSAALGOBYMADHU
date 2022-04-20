@@ -6,7 +6,7 @@ import java.util.List;
 public class LongestIncresingSubsequence {
     public static void main(String args[]){
         //int a[] = {10,9,2,5,3,7,101,18};
-        int a[] ={2,4,6,3,5,7,9};
+        int a[] ={2,5,3,7,11,8,10,13,6};
         System.out.println(lengthOfLIS(a));
         System.out.println(lengthOfLISSimple(a));
         System.out.println(longestIncSubsequence(a,a.length));

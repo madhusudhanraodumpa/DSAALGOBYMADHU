@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shn.eventsanalytics:eventsanalytics-common:6.0.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/eventsanalytics/eventsanalytics-common/6.0.0.0-SNAPSHOT/eventsanalytics-common-6.0.0.0-20220227.194021-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/eventsanalytics/eventsanalytics-common/6.0.0.0-SNAPSHOT/eventsanalytics-common-6.0.0.0-20220227.194021-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shn/eventsanalytics/eventsanalytics-common/6.0.0.0-SNAPSHOT/eventsanalytics-common-6.0.0.0-20220227.194021-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

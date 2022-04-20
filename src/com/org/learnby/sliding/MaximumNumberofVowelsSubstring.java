@@ -5,32 +5,32 @@ import java.util.List;
 
 public class MaximumNumberofVowelsSubstring {
     public static void main(String args[]){
-        System.out.println(maxVowels("aeiou",2));
+        System.out.println(maxVowels("leetcode",3));
     }
 
     public static int maxVowels(String s, int k) {
         int start=0;int end=0;
         int maxVowleCount=0;
         int count=0;
-        while(end<s.length()){
-            if(end-start+1<=k && isVowle(s.charAt(end))){
-                count++;
+        while (end<s.length()){
 
+            if(isVowle(s.charAt(end))){
+                count++;
             }
-            while(end-start+1>k) {
-                if (isVowle(s.charAt(start))) {
+            if(end-start+1<k){
+                end++;
+            }else if(end-start+1 == k){
+                maxVowleCount = Math.max(maxVowleCount,count);
+                if(isVowle(s.charAt(start))){
                     count--;
-                    start++;
-                } else {
-                    start++;
                 }
-                if(isVowle(s.charAt(end))){
-                    count++;
-                }
+                start++;
+                end++;
             }
-            maxVowleCount=Math.max(maxVowleCount,count);
-            end++;
+
+
         }
+
         return maxVowleCount;
     }
     private static boolean isVowle(char c) {
