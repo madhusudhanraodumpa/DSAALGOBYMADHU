@@ -5,114 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf39461f-fd3a-4495-b79c-1a3b5fcf608b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/GenerateParenthsis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/JosephusProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/NthTribonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/Permutationwithspaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/Print1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/PrintAllSubsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/PrintNBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/kthGrammar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/CountOccurrencesOfAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/FirstNegativeNumberineveryWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/LargestSubarrayofsumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/LongestSubstringWithKUniqueCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/LongestSubstringWithWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/LongestSubstringwithAtLeastKRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/LongestTurbulentSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/MaxConsecutiveOnesIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/MaximumSumSubarrayofsizeK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/Maximumofallsubarraysofsizek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/MinimumNumberofKConsecutiveBitFlips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/MinimumWindowSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/PermutationinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sliding/SubarrayswithKDifferentIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/BasicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/DesignStackWithIncrementOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/DinnerPlates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/LargestHistrogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/MaxFrequencyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/NextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/NextGreaterElementCircular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/NextGreaterElementToLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/NextSmallerElementToLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/NextSmallerElementToRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/StockSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/avl/AvlTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTBoundaryTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTCheckSumTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTConvertTreeToSumTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTCountOfNodesForCompleteTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTInorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTInorderPredecssor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTIsSameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTKthSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTMaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTMaxSumFromRootToLeaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTMinDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTMirrorTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTMorrisInOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTPostOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTPreOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTPrintAncestors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTRangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTSerializeAndDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTSumoFLeftLeafs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTVerticalOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTZigZagOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/CountOfAllNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/CountOfLeafNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/LargestBSTInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/learnby/array/SumOfAllSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/AlternatingSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/FindDuplicatesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/FindPivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/KDifferentPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxConsecutiveOnesIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxContigousOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaximumPositivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MergeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MettingRoomI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MinFlips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MinmumDifferenceOfTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/NextGreaterElementIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/NumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/NumberTimesDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PartitionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PrintAntiDigonal2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/StarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubArraySumEqualK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubarrayWithLeastAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SumOfAllSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/TwoSumWithSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/WiggleSortI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/WiggleSortII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/mettingRoomII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/BitCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/dynamicprograming/TotalWaysCoinChangeProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/dynamicprograming/TotalWaysCoinChangeProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/dynamicprograming/subsequences/StringSubsequences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/dynamicprograming/subsequences/StringSubsequences.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/hash/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/hash/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/hash/LongetSubArrayWithSumK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/hash/LongetSubArrayWithSumK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/linkedlist/LinkedListOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/linkedlist/LinkedListOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/recursion/TowerHanoiProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/recursion/TowerHanoiProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/sliding/MaximumNumberofVowelsSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/sliding/MaximumNumberofVowelsSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/sliding/SlidingWindowMedian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/sliding/SlidingWindowMedian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/stack/StackUsingSingleQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/stack/StackUsingSingleQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/string/FindAllAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/string/FindAllAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTLCAOfTwoNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTLCAOfTwoNodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTVerticalOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTVerticalOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/ConstrcutBTfromINOrderAndPreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/ConstrcutBTfromINOrderAndPreOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/ConstrcutBTfromPostOrderAndPreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/ConstrcutBTfromPostOrderAndPreOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/ConstructBTfromInorderAndPostOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/ConstructBTfromInorderAndPostOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/leetcode/math/Maximum69Number_1323.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/leetcode/math/Maximum69Number_1323.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/subsequences/StringSubsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/subsequences/StringSubsequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/hash/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/hash/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/hash/LongetSubArrayWithSumK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/hash/LongetSubArrayWithSumK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/recursion/TowerHanoiProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/recursion/TowerHanoiProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/sliding/MaximumNumberofVowelsSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/sliding/MaximumNumberofVowelsSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/sliding/SlidingWindowMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/sliding/SlidingWindowMedian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/stack/StackUsingSingleQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/stack/StackUsingSingleQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/string/FindAllAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/string/FindAllAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/BTLCAOfTwoNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTLCAOfTwoNodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/BTVerticalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTVerticalOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/ConstrcutBTfromINOrderAndPreOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/ConstrcutBTfromINOrderAndPreOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/ConstrcutBTfromPostOrderAndPreOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/ConstrcutBTfromPostOrderAndPreOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/ConstructBTfromInorderAndPostOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/ConstructBTfromInorderAndPostOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/leetcode/math/Maximum69Number_1323.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/leetcode/math/Maximum69Number_1323.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/array/DutuchFlagPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/array/DutuchFlagPrinciple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/matrix/SpiralMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/matrix/SpiralMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/array/DutuchFlagPrinciple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/array/DutuchFlagPrinciple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/matrix/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/matrix/SpiralMatrix.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="C:/shn/reportingService/rabbitmq/target/" />
-    <ignored path="C:/shn/reportingService/common/target/" />
-    <ignored path="C:/shn/reportingService/server/target/" />
-    <ignored path="C:/shn/reportingService/client/target/" />
-    <ignored path="C:/shn/reportingService/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,25 +52,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="learn-by" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/org/prep/test/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -188,7 +101,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -246,6 +159,9 @@
         <option value="$PROJECT_DIR$/src/com/org/prep/test/Test.java" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
@@ -329,48 +245,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576766128007" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="C:/shn/reportingService/pom.xml" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DumpaMadhusudhanRao/personal/madhu/madhu/personal/practice/DSAALGOBYMADHU&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.org.prep.array" />
       <recent name="com.org.prep.sliding" />
       <recent name="com.org.prep.stack" />
       <recent name="com.org.prep.tree" />
       <recent name="com.org.learnby.string" />
-      <recent name="com.org.learnby.bitmasking" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="CountIncreasingSubsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.dynamicprograming.subsequences.CountIncreasingSubsequences" />
+  <component name="RunManager" selected="Application.KDifferentPairs">
+    <configuration name="BitCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.bits.BitCompression" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.learnby.dynamicprograming.subsequences.*" />
+          <option name="PATTERN" value="com.org.prep.bits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.dynamicprograming.MinPathSum" />
+    <configuration name="FindDuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.FindDuplicatesInArray" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.learnby.dynamicprograming.*" />
+          <option name="PATTERN" value="com.org.prep.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.prep.test.Test" />
+    <configuration name="KDifferentPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.KDifferentPairs" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.prep.test.*" />
+          <option name="PATTERN" value="com.org.prep.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,12 +300,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueBSTs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.dynamicprograming.UniqueBSTs" />
+    <configuration name="NumberTimesDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.NumberTimesDuplicates" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.learnby.dynamicprograming.*" />
+          <option name="PATTERN" value="com.org.prep.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,12 +313,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildCardMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.learnby.dynamicprograming.subsequences.WildCardMatching" />
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.learnby.matrix.SpiralMatrix" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.learnby.dynamicprograming.subsequences.*" />
+          <option name="PATTERN" value="com.org.learnby.matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -432,15 +328,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MinPathSum" />
-        <item itemvalue="Application.UniqueBSTs" />
-        <item itemvalue="Application.WildCardMatching" />
-        <item itemvalue="Application.CountIncreasingSubsequences" />
+        <item itemvalue="Application.KDifferentPairs" />
+        <item itemvalue="Application.NumberTimesDuplicates" />
+        <item itemvalue="Application.FindDuplicatesInArray" />
+        <item itemvalue="Application.BitCompression" />
+        <item itemvalue="Application.SpiralMatrix" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>C:\Users\mdumpa\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
@@ -601,6 +497,13 @@
       <workItem from="1646120015239" duration="2101000" />
       <workItem from="1646220782725" duration="626000" />
       <workItem from="1650362893417" duration="1828000" />
+      <workItem from="1651569786967" duration="12326000" />
+      <workItem from="1651835679507" duration="10243000" />
+      <workItem from="1652073771668" duration="19188000" />
+      <workItem from="1652380805794" duration="17460000" />
+      <workItem from="1652716908231" duration="12443000" />
+      <workItem from="1652875970720" duration="2600000" />
+      <workItem from="1652940678404" duration="2578000" />
     </task>
     <servers />
   </component>
@@ -678,7 +581,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -686,284 +589,468 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/stack/StockSpan.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="404" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/stack/StockSpan.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="405" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/stack/StackUsingSingleQueue.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="406" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/stack/DesignStackWithIncrementOperation.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="407" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/stack/DesignStackWithIncrementOperation.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="408" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/stack/DesignStackWithIncrementOperation.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="409" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
           <line>203</line>
-          <properties />
           <option name="timeStamp" value="410" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
           <line>394</line>
-          <properties />
           <option name="timeStamp" value="412" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
           <line>376</line>
-          <properties />
           <option name="timeStamp" value="413" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
           <line>215</line>
-          <properties />
           <option name="timeStamp" value="414" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
           <line>242</line>
-          <properties />
           <option name="timeStamp" value="415" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
           <line>263</line>
-          <properties />
           <option name="timeStamp" value="416" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
           <line>245</line>
-          <properties />
           <option name="timeStamp" value="417" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java</url>
           <line>77</line>
-          <properties />
           <option name="timeStamp" value="418" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/sliding/LargestSubarrayofsumK.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="419" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/sliding/LargestSubarrayofsumK.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="420" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/sliding/LongestSubstringwithAtLeastKRepeatingCharacters.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="421" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/sliding/CountSubstringWithKUniqueCharacters.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="422" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/hash/BinaryQueryString.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="424" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/hash/WordsPattern.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="425" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/hash/MostCommonWord.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="426" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/test/Test.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="427" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/binarysearch/FindMinElement.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="429" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/binarysearch/FindElementInSortedRotated.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="430" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/binarysearch/FindElementInSortedRotated.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="432" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/binarysearch/FindElementInSortedRotated.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="433" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/knapsackProblemDp.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="434" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/knapsackProblemDp.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="435" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/SubSetSumPartitionProblem.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="436" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/SubSetSumPartitionProblem.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="437" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/CountOfSubSets.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="438" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/TargetSum.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="439" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/TargetSum.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="440" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/RodCuttingProblem.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="441" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/subsequences/LongestCommonSubsequence.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="442" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/subsequences/ShortestCommonSuperSequence.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="443" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/MatrixChainMultiplication.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="444" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/palindrome/PalindromePartition.java</url>
           <line>111</line>
-          <properties />
           <option name="timeStamp" value="445" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/palindrome/PalindromePartition.java</url>
           <line>118</line>
-          <properties />
           <option name="timeStamp" value="446" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/subsequences/LongestIncresingSubsequence.java</url>
           <line>58</line>
-          <properties />
           <option name="timeStamp" value="447" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/subsequences/CountPalindromicSubsequences.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="448" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/subsequences/CountIncreasingSubsequences.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="450" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/subsequences/WildCardMatching.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="451" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/UniqueBSTs.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="452" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/learnby/dynamicprograming/MinPathSum.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="453" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/test/Test.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="454" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/test/Test.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/SumOfAllSubArrays.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/SubarrayWithLeastAverage.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/NextGreaterElementIII.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/PartitionLabels.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/PartitionLabels.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/TwoSum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/ThreeSum.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/ThreeSum.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/ThreeSum.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/ThreeSum.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/ThreeSum.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MinFlips.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/PrintAntiDigonal2D.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/PrintAntiDigonal2D.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MinmumDifferenceOfTriplet.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MinmumDifferenceOfTriplet.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MaxContigousOnes.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/WiggleSortI.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/WiggleSortII.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/WiggleSortII.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MaxContigousOnes.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MaxContigousOnes.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MaxConsecutiveOnesIII.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MaximumPositivity.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MaximumPositivity.java</url>
+          <line>106</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/StarPattern.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MergeSortedArrays.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MergeSortedArrays.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/FindPivotIndex.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/NumberOf1Bits.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/PascalTriangle.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/RemoveDuplicatesFromSortedArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/AlternatingSubArrays.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/AlternatingSubArrays.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/AlternatingSubArrays.java</url>
+          <line>52</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/SubArraySumEqualK.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/SubArraySumEqualK.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/learnby/matrix/SpiralMatrix.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/bits/BitCompression.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/FindDuplicatesInArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/NumberTimesDuplicates.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="501" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/NumberTimesDuplicates.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="502" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/KDifferentPairs.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/KDifferentPairs.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/KDifferentPairs.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="505" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

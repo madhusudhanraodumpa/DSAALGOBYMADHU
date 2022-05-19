@@ -2,7 +2,7 @@ package com.org.learnby.array;
 
 public class DutuchFlagPrinciple {
     public static void main(String rags[]){
-        int[] arr={0,2,1,1,0,2,2,1,0};
+        int[] arr={0,2,1,1,0,2,2,1,0,10};
         printFlagArray(arr);
         for(int a:arr){
             System.out.print(a+" ");

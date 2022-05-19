@@ -20,31 +20,37 @@ public class SpiralMatrix {
     }
 
     public static List<Integer> spiralOrder(int[][] matrix) {
+        int n=matrix.length;
+        int m=matrix[0].length;
+
+        int top=0;//r1
+        int bottom=n-1; //r2
+        int left=0;//c1
+        int right=m-1;//c2
+        int val=1;
         List<Integer> list=new ArrayList<>();
-        int r1=0;
-        int r2=matrix.length-1;
-        if(matrix.length==0) return list;
-        int c1=0;
-        int c2=matrix[0].length-1;
-        int size=(r2+1)*(c2+1);
-        while(r1 <= r2 && c1 <= c2){
-            for(int x=c1;x<=c2;x++){
-                list.add(matrix[r1][x]);
+        while(top<=bottom && left<=right){
+            for(int i=left;i<=right;i++){
+                list.add(matrix[top][i]);
+                val++;
             }
-            for(int x=r1+1;x<=r2;x++){
-                list.add(matrix[x][c2]);
+            top++;
+            for(int i=top;i<=bottom;i++){
+                list.add(matrix[i][right]);
+                val++;
             }
-            if(r1<r2 && c1<c2){
-                for(int x=c2-1;x>=c1;x--){
-                    list.add(matrix[r2][x]);
-                }
+            right--;
+            for(int i=right;i>=left;i--){
+                list.add(matrix[bottom][i]);
+                val++;
+            }
+            bottom--;
+            for(int i=bottom;i>=top;i--){
+                list.add(matrix[i][left]);
+                val++;
+            }
+            left++;
 
-                for(int x=r2-1;x>=r1+1;x--){
-                    list.add(matrix[x][c1]);
-                }
-            }
-
-            c1++;r1++;r2--;c2--;
 
         }
 
