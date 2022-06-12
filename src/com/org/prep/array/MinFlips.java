@@ -2,7 +2,7 @@ package com.org.prep.array;
 
 public class MinFlips {
     public static void main(String args[]){
-        System.out.println(minFlips("000000"));
+        System.out.println(minFlips("10111"));
     }
 
     public static int minFlips(String target) {

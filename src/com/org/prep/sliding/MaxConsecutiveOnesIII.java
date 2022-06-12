@@ -3,8 +3,8 @@ package com.org.prep.sliding;
 public class MaxConsecutiveOnesIII {
 
     public static void main(String args[]) {
-        int a[] = {0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1};
-        System.out.println(longestOnes(a, 3));
+        int a[] = {1,1,1,0,0,0,1,1,1,1,0};
+        System.out.println(longestOnes(a, 2));
     }
 
     public static int longestOnes(int[] a, int k) {

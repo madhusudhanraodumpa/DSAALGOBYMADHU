@@ -5,10 +5,43 @@ import java.util.List;
 
 public class MaximumPositivity {
     public static void main(String args[]){
-          int[] a={7251357, -6249230, -3917080, 5577664, 3417609, -2534660, 4723211, 3827311, 3854309, -6641510};
+          int[] a={ -5173778, -8176176, 1694510, 7089884, -1394259, 1146372, -2502339, 1544618, 6602022, 4330572};
 
-        solve(a);
+        solve1(a);
+        String s="";
+       // s.charAt()
     }
+    public static int[] solve1(int[] A) {
+
+        int n = A.length;
+        int start = 0;
+        int end = 0;
+        int startIndex = -1;
+        int endIndex = n - 1;
+        int maxLen = Integer.MIN_VALUE;
+        int len = 0;
+
+
+        while (end < n) {
+
+            while (end < n && A[end] < 0) {
+                end++;
+                start = end;
+            }
+            len = end - start + 1;
+            if (maxLen < len) {
+                maxLen = len;
+                startIndex = start;
+                endIndex = end;
+            }
+            end++;
+        }
+        List<Integer> list = new ArrayList<>();
+        for (int k = startIndex; k <= endIndex; k++) {
+            list.add(A[k]);
+        }
+        return list.stream().mapToInt(x -> x).toArray();
+        }
 
 
     public static int[] solve(int[] A) {
