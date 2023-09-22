@@ -2,7 +2,7 @@ package com.org.prep.array;
 
 public class RemoveDuplicatesFromSortedArray {
 public static void main(String[] args){
-    int a[]={1,1,2};
+    int a[]={0,0,1,1,1,2,2,3,3,4};
     removeDuplicates(a);
 }
 

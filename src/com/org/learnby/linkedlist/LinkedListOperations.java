@@ -6,13 +6,14 @@ public class LinkedListOperations {
     public static void main(String args[]){
 
         LinkedList l=new LinkedList();
-        int[] a={1,2,3,4,5};
+        int[] a={1,2,3,4,5,6};
         for(int i=0;i<a.length;i++) {
             l.insertAtEnd(a[i]);
 
         }
 
-      l.oddEvenList(l.getHead());
+      Node m=l.swapPairs1(l.getHead());
+     //   System.out.println(l.getHead());
 
 
 

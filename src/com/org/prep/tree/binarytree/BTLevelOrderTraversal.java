@@ -10,13 +10,46 @@ import java.util.Queue;
 public class BTLevelOrderTraversal {
     public static void main(String args[]){
 
-        TreeNode node = new TreeNode(1);
-        node.left = new TreeNode(2);
-        node.right = new TreeNode(3);
-        node.left.left = new TreeNode(4);
-        node.left.right = new TreeNode(5);
-        node.right.left = new TreeNode(6);
+        TreeNode node = new TreeNode(3);
+        node.left = new TreeNode(9);
+        node.right = new TreeNode(20);
+       // node.left.left = new TreeNode(4);
+        //node.left.right = new TreeNode(5);
+        node.right.left = new TreeNode(15);
         node.right.right = new TreeNode(7);
+        levelOrder1(node);
+
+
+    }
+    public static List<List<Integer>> levelOrder1(TreeNode A) {
+        Queue<TreeNode> q= new LinkedList<>();
+        List<List<Integer>> list=new ArrayList<>();
+        q.add(A);
+        q.add(null);
+        List<Integer> l=new ArrayList<>();
+        while(q.size()>1){
+            TreeNode f=q.peek();
+            q.poll();
+
+            if(f==null){
+                list.add(l);
+                l=new ArrayList<>();
+                q.add(null);
+            }else{
+                l.add(f.data);
+                if(f.left!=null){
+                    q.add(f.left);
+                }
+                if(f.right!=null){
+                    q.add(f.right);
+                }
+
+            }
+        }
+
+        return list;
+
+
 
 
     }

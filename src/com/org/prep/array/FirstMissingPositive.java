@@ -1,16 +1,35 @@
 package com.org.prep.array;
 
+import java.util.Arrays;
+
 public class FirstMissingPositive {
         public static void main(String args[]){
-            int a[]={3,4,-1,0,1};
-           System.out.println(firstMissingPositive(a));
+            int a[]={1,2,0};
+           System.out.println(firstMissingPositive1(a));
         }
 
         //approch 1: O(n^2)  for each value from 1 to n  we have search in array linearly .
         //approch 2: O(nlogn) we have to sort the array and loop it and check any element is missing.
         //approch 3 : O(n) and O(n) space: first loop add array elements in to hashset. and then second time start form i is 1 to n and check i is present in hashset or not if not return i. or else n+1;
         //approch 4: O(n) first mark the out range array element to addy  any value like 1. And also check 1 is present in array. second time mark the array index element to -1. and 3 rd time loop the array from i 0 to n . if any element non negative then return i+1 or else n+1
+        public static int firstMissingPositive1(int[] nums) {
+            int n=nums.length;
+            int val=1;
+            Arrays.sort(nums);
+            for(int i=0;i<n-1;i++){
+                if(nums[i]<=0){
+                    continue;
+                }else{
 
+                    if(nums[i]>=val){
+                        val++;
+                    }
+                }
+
+
+            }
+            return val;
+        }
     public static int firstMissingPositive(int[] nums) {
 
 

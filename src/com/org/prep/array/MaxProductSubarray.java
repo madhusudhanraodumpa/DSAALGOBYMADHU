@@ -3,32 +3,36 @@ package com.org.prep.array;
 public class MaxProductSubarray {
 
     public static void main(String[] args){
-        int a[]={2,4,-1,-5,6};
+        int a[]={-1,-2,-3,0};
         System.out.println(maxProduct(a));
     }
     private static int maxProduct(int a[]){
-        int max=Integer.MIN_VALUE;
-        int product1=1;
-        int product2=1;
-        int left=0;
-        int right=a.length-1;
+       int leftProduct=1;
+       int rightProduct=1;
+       int n=a.length;
+       int i=0;
+       int j=n-1;
+       int result=Integer.MIN_VALUE;
+       while(i<n && j>=0){
 
-        while (left<a.length && right>=0){
-            product1=product1*a[left];
-            product2=product2*a[right];
-            max=Math.max(max,Math.max(product1,product2));
+           leftProduct =leftProduct*a[i];
+           rightProduct = rightProduct*a[j];
 
-            if(product1==0){
-                product1=1;
-            }
-            if(product2==0){
-                product2=1;
-            }
+           result=Math.max(result,Math.max(leftProduct,rightProduct));
+           if(leftProduct==0){
+               leftProduct=1;
+           }
+           if(rightProduct==1){
+               rightProduct=1;
+           }
 
-            left++;
-            right--;
-        }
-    return max;
+
+           i++;
+           j--;
+
+       }
+
+       return result;
     }
 
 }

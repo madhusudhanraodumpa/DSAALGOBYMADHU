@@ -17,6 +17,9 @@ public class ThreeSum {
         Arrays.sort(a);
         for(int i=0;i<a.length-2;i++){
             int reuried_value=-a[i];
+            if(i!=0 && a[i]==a[i-1]){
+                continue;
+            }
             int l=i+1;
             int r=a.length-1;
             while(l<r){

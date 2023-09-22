@@ -3,8 +3,8 @@ package com.org.learnby.searching;
 public class BinarySearch {
 
     public static void main(String args[]){
-        int a[]={1,3,5,6,7,8,9,20,30,56,78,98,107};
-        System.out.println(iterativeBinarySarch(a,0,a.length-1,4));
+        int a[]={0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1};
+        System.out.println(iterativeBinarySarch(a,0,a.length-1,0));
         System.out.println(recursiveBinarySearch(a,0,a.length-1,4));
 
     }

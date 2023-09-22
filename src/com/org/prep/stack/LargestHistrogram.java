@@ -4,8 +4,8 @@ import java.util.Stack;
 
 public class LargestHistrogram {
     public static void main(String args[]){
-        int a[]={2,1,5,6,2,3};
-        System.out.println(largestRectangleArea(a));
+        int a[]={2,1,2};
+        System.out.println(largestRectangleArea2(a));
         System.out.println(largestRectangleArea1(a));
 
     }
@@ -56,5 +56,48 @@ public class LargestHistrogram {
             maxArea=Math.max(maxArea,(higherBound-lowerBound)*heights[value]);
         }
         return maxArea;
+    }
+
+    public static int largestRectangleArea2(int[] heights) {
+
+        int n=heights.length;
+        int start=0;
+        int end=n-1;
+
+        int max_area=Integer.MIN_VALUE;
+        Stack<Integer> stack=new Stack<Integer>();
+        int lowerbound=0;
+        int higherbound=0;
+
+        while(start<=end){
+
+            if(stack.isEmpty() || heights[stack.peek()]<=heights[start]){
+                stack.push(start);
+                start++;
+            }else{
+                int value=stack.pop();
+                higherbound=start-1;
+                lowerbound=stack.isEmpty()?-1:stack.peek();
+
+                max_area=Math.max(max_area,(higherbound-lowerbound)*heights[value]);
+
+            }
+
+          //  start++;
+
+
+
+        }
+        while(!stack.isEmpty()){
+            int value=stack.pop();
+            higherbound=start-1;
+            lowerbound=stack.isEmpty()?-1:stack.peek();
+            max_area=Math.max(max_area,(higherbound-lowerbound)*heights[value]);
+        }
+
+
+        return max_area;
+
+
     }
 }

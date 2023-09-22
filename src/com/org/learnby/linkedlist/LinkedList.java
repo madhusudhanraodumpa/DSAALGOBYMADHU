@@ -1,7 +1,7 @@
 package com.org.learnby.linkedlist;
 
 import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 import java.util.Stack;
 
 public class LinkedList {
@@ -169,6 +169,68 @@ public class LinkedList {
         head = previous;
     }
 
+    public Node reverseLinkedListII(Node head, int left, int right) {
+        if(head==null || head.next==null) return head;
+
+        Node node=head;
+        int k=left;
+        Node prev=null;
+
+        while(node!=null && k>1){
+            prev=node;
+            node=node.next;
+            k--;
+        }
+
+        Node temp=node;
+        Node current=null;
+        Node p1=null;
+        Node p2=null;
+        int pos=right-left;
+        while(temp!=null && pos>=0){
+            current=temp.next;
+            temp.next=p1;
+            p1=temp;
+            temp=current;
+            pos--;
+        }
+
+        if(prev==null) return p1;
+        prev.next=p1;
+        node.next=current;
+
+        return prev;
+    }
+
+    public Node deleteDuplicatesUnsorted(Node head) {
+
+        Map<Integer,Integer> map=new HashMap<>();
+        Node dummy=new Node(-1);
+        dummy.next=head;
+
+        Node temp=head;
+        while(temp!=null){
+
+            map.put(temp.data,map.getOrDefault(temp.data,0)+1);
+            temp=temp.next;
+        }
+
+        temp=head;
+        Node prev=dummy;
+
+        while(temp!=null){
+
+            if(map.get(temp.data)==1){
+                prev.next=temp;
+                prev=prev.next;
+            }
+
+            temp=temp.next;
+        }
+
+        return dummy.next;
+    }
+
     public Node reverseRecursive(Node node) {
 
         if (node == null) {
@@ -189,7 +251,7 @@ public class LinkedList {
 
         if (node == null) return node;
         if (node.next == null) {
-            head = node;
+          head = node;
             return node;
         }
 
@@ -511,7 +573,30 @@ public class LinkedList {
         }
 
     }
+    public static Node reverseList(Node A, int B) {
+        if(B==1 ) return A;
+        Node prev=null;
+        Node temp=A;
+        Node temp1=A;
+        Node current=A;
+        int tB=B;
+        while(temp!=null && B>0){
+            current=temp.next;
+            temp.next=prev;
+            prev=temp;
+            temp=current;
+            B--;
 
+
+
+        }
+
+        temp1.next=reverseList(temp,tB);
+        return prev;
+
+
+
+    }
 
     public void removeNthFromEnd(Node node, int n) {
         Node node1 = node;
@@ -532,6 +617,79 @@ public class LinkedList {
             node2 = node2.next;
         }
         node2.next = node2.next.next;
+    }
+
+    public Node removeNthFromEnd3(Node node, int n) {
+        Node dummy=new Node(0);
+        dummy.next=head;
+        Node node1=dummy;
+        Node node2=dummy;
+        while( node1.next!=null){
+            node1=node1.next;
+            n--;
+            if(n<0){
+                node2=node2.next;
+            }
+
+        }
+        /**while(node1.next!=null){
+         node1=node1.next;
+         node2=node2.next;
+         }**/
+        node2.next=node2.next.next;
+        return dummy.next;
+    }
+    public Node removeNthFromEndTemp(Node node, int k) {
+
+        if(node==null) return  null;
+       // if(head.next==null &&  k==1) return null;
+        int n=0;
+        Node temp=node;
+        while(temp!=null){
+            temp=temp.next;
+            n++;
+        }
+        int pos=n-k+1;
+        if(pos==1){
+            node=node.next;
+            return head;
+        }
+        temp=node;
+        Node prev=node;
+        int count=1;
+        while(temp.next!=null && pos>count){
+            prev=temp;
+            temp=temp.next;
+            count++;
+
+
+        }
+
+        prev.next=temp.next;
+        return node;
+    }
+    public Node removeNthFromEndTemp1(Node node, int k) {
+
+        Node temp1=node;
+        Node temp2=node;
+        int n=0;
+        while(temp1!=null && n<k){
+            temp1=temp1.next;
+            n++;
+        }
+        if(k==1){
+            return temp1;
+        }
+        Node prev=temp2;
+        while(temp1!=null && temp2!=null){
+            temp1=temp1.next;
+            prev=temp2;
+            temp2=temp2.next;
+        }
+
+        prev.next=temp2.next;
+
+        return head;
     }
 
 
@@ -677,7 +835,36 @@ public class LinkedList {
         return node;
     }
 
+    public Node swapPairs1(Node head) {
+        Node dummy=new Node(-1);
+        dummy.next=head;
+        Node cur=dummy;
 
+
+        while(cur!=null){
+
+            Node c1=cur.next;
+            Node c2 =null;
+            if(c1!=null){
+                c2=c1.next;
+            }
+            if(c2!=null){
+                Node temp=c2.next;
+
+                c2.next=c1;
+                c1.next=temp;
+                cur.next=c2;
+                cur=c1;
+            }else{
+                break;
+            }
+
+
+
+        }
+        return dummy.next;
+
+    }
 
 
 
@@ -692,6 +879,37 @@ public class LinkedList {
 
 
     public void buubleSort(Node node) {
+
+    }
+
+    public Node partition(Node A, int B) {
+
+        Node smaller=new Node(-1);
+        Node ps=smaller;
+        Node greater=new Node(-1);
+        Node pg=greater;
+
+        Node cur=A;
+        while(cur!=null){
+            if(cur.data<=B){
+                ps.next=cur;
+                ps=ps.next;
+            }else{
+                pg.next=cur;
+                pg=pg.next;
+            }
+
+            cur=cur.next;
+
+        }
+
+        ps.next=pg.next;
+        pg.next=null;
+
+        return smaller.next;
+
+
+
 
     }
 

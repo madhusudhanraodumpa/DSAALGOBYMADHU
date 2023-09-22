@@ -5,6 +5,37 @@ import java.util.Arrays;
 import java.util.List;
 
 public class MergeInterval {
+    public static void main(String[] args) {
+        int[][] intervals= {{1,4},{5,6}};
+        merge1(intervals);
+    }
+
+
+    public static int[][] merge1(int[][] intervals) {
+
+        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
+        List<int[]> list=  new ArrayList<>();
+
+        int[] prevInt=intervals[0];
+
+        int[] currentInt=intervals[0];
+
+        if(intervals.length==1){
+            list.add(currentInt);
+        }
+
+        for(int i=1;i<intervals.length;i++){
+            currentInt = intervals[i];
+            if(prevInt[1]>=currentInt[0]) {
+                currentInt[0] = Math.min(prevInt[0],currentInt[0]);
+                currentInt[1] = Math.max(prevInt[1],currentInt[1]);
+            }
+            list.add(currentInt);
+            prevInt=currentInt;
+
+        }
+        return list.toArray(new int[list.size()][]);
+    }
 
 
     public static int[][] merge(int[][] intervals) {

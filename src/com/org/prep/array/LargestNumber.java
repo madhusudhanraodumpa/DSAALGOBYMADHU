@@ -8,6 +8,7 @@ public class LargestNumber {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
         list.addAll(Arrays.asList(3, 30, 34, 5, 9));
+        System.out.println(largestNumber(list));
         largestNumber1(list);
     }
 
@@ -20,8 +21,8 @@ public class LargestNumber {
             public int compare(Integer a, Integer b) {
                 int rem1 = a % 10;
                 int rem2 = b % 10;
-                if (rem1 > rem2) return -1;
-                else return 1;
+                if (rem1 > rem2) return 1;
+                else return -1;
             }
         });
         StringBuilder sb = new StringBuilder();
@@ -49,7 +50,7 @@ public class LargestNumber {
 
                 String second = String.valueOf(b) + String.valueOf(a);
 
-                return second.compareTo(first);
+                return first.compareTo(second);
 
             }
 

@@ -2,10 +2,35 @@ package com.org.prep.array;
 
 public class SortByColors {
     public static void main(String[] args){
-        int a[]={2, 0, 0, 1, 0, 0, 2, 2, 1, 1, 0, 0, 1, 0, 2, 1, 1, 0, 1, 0, 1, 2, 2, 2, 0, 0, 1, 0, 2, 1, 1, 2, 1, 2, 2, 1, 0, 2, 2, 1, 1, 1, 0, 1, 0, 1, 0, 2, 1, 2, 0, 2, 0, 1, 1, 0, 2, 2, 1, 2, 0, 2, 1, 1, 1, 2, 0, 1, 0, 2, 2, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 2, 1, 1, 0, 2, 1, 2, 0, 0, 0, 2, 2, 2, 2, 0, 0, 0, 1, 1, 0, 2, 1, 2, 2, 2, 1, 2, 2, 0, 1, 0, 1, 2, 1, 1, 0, 1, 2, 0, 1, 0, 2, 2, 1, 2, 1, 0, 2, 2, 1, 1, 0, 2, 1, 2};
-        sortColors1(a);
+        int a[]={2,0,2,1,1,0};
+        sortColors2(a);
     }
+    public static void sortColors2(int[] A) {
+        int n=A.length;
+        int count0=0;
+        int count1=0;
+        int count2=0;
+        for(int i=0;i<n;i++){
+            if(A[i]==0) count0++;
+            else if(A[i]==1) count1++;
+            else count2++;
+        }
+        int k=0;
+        if(count0>=0){
+            A[k++]=0;
+            count0--;
+        }
 
+        if(count1>=0){
+            A[k++]=1;
+            count1--;
+        }
+
+        if(count2>=0){
+            A[k++]=2;
+            count2--;
+        }
+    }
 
     public static void sortColors(int[] A) {
         int n=A.length;
