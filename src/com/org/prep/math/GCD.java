@@ -3,8 +3,8 @@ package com.org.prep.math;
 public class GCD {
 
     public static void main(String[] args) {
-        int a=12;
-        int b=30;
+        int a=25;
+        int b=26;
         int gcd = gcdOfTwoNumbers(a,b);
 
         System.out.println(gcd);
@@ -35,6 +35,7 @@ public class GCD {
             if(a%i==0 && b%i==0){
                 return i;
             }
+
         }
         return 1;
     }

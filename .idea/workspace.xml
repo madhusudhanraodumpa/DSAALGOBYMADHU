@@ -5,228 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf39461f-fd3a-4495-b79c-1a3b5fcf608b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/org/coding/CharDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/coding/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/coding/StringsConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/coding/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/coding/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/coding/sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/file/test/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/lld/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/lld/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/lld/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/lld/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/lld/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/lld/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/lld/Y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/lld/Z.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/AddOnetoArrayNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/BestTimetoBuySellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/ChristmasTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/ColorfulNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/CountSubsetSumEqualK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/EquilibriumIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/EvenLenSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/GreatestElementRightSide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/InsertInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxNumberOfOnesInRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxOnesinRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxSizeof1s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxSumSubmatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaximuSumLessoREqualK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaximumPostivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaximunSumSubbary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/MinSwapdRequried.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/NiceSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/NumberOfSubArraysWithOddSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PairSongs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PairSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PairsDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PairsGivenSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PairsWithGivenXor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PowerFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PrintSubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/PrintSubArraysSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/RangeSumQueryMutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/RearrangeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/RemoveDuplicateFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SetMatrixZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SetTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/StartAnsEndIndexOfSubArraySizek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubMatrixSumQuries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubSetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubarrayGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubarraySumZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubarrayswithBitwiseOR1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SumOFAllSubMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SumOfOddLengthSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SumofSubmatriceEqualsTraget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/SurrayOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/TopKFrequentElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/array/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/AllPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/AllSubSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/CombinanationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/CombinanationSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/CombinanationSumIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/GenerateParanthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/LetterCaseCombinantions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/LetterPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/PermutationSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/RemovePAranthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/SudukoSolving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/SudukoSolving1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/backtracking/UniquePathsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/BinarySearchInfiniteSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/CountNegativeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/FirstAndLastOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/FloorOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/KthPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/MagicalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/MatrixMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/MaximumCandiesAllocated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/MedianSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/PaintersPartitionProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/SearchRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/SearchinRotatedSortedArrayII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/ShortestSubarraywithSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/binarysearch/SortedInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/BitWiseANDOfTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/CountingSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/DivideInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/ExcelSheetTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/FindPostionOfSetBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/MaxProductLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/MinimumXXORA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/Missing2Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/ReverseBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/SubSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/SumBitWiseANDOfAllSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/SumOfAllBitWiseANDPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/bits/SumOfXorPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/DecodeWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/FrogJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/MaxProductSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/MaxSumValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/MinimumSqures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/PaintHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/PaintHouse2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/PerfectSqures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/RegularExpressionMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/dp/kanpsack0or1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/hash/DistinctNumbersWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/hash/IsDicitnory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/hash/ValidSuduko.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/heap/RunningMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/list/LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/list/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/CalculateNCR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/CountOfDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/LuckyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/OpenDoors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/PrimeSubSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/ReArrangeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/SortedPermutationRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/SortedPermutationRankWithRepeats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/GrayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/KthSymbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/sorting/KthSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/EvaluteExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/KthNumberofSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/LargetRectangleHistrogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/NearestSmallerLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/stack/NthPerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/string/ClosetPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/string/InsertFrontMakePalindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/string/LongestSubstringWithoutRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/string/PatternMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/string/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/string/WindowString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/EqualTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/RecoverBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/trie/ContactFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/trie/IndexPairstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/trie/LongestWordDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/trie/PrefixTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/org/prep/trie/PrefixTreeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/prep/math/GCDPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/linkedlist/LinkedListOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/linkedlist/LinkedListOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/searching/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/searching/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTInOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTInOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTLCAOfTwoNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/BTLCAOfTwoNodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/ConstrcutBTfromINOrderAndLevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/learnby/tree/ConstrcutBTfromINOrderAndLevelOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/FirstMissingPositive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/FirstMissingPositive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/JumpsGameII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/JumpsGameII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/LargestNumber$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/LargestNumber$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/LargestNumber$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/LargestNumber$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/LargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/LargestNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MaxConsecutiveOnesIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MaxConsecutiveOnesIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MaxProductSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MaxProductSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MaximumPositivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MaximumPositivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MergeInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MergeInterval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MinmumDifferenceOfTriplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/MinmumDifferenceOfTriplet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/NobelInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/NobelInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/RemoveDuplicatesFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/RemoveDuplicatesFromSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/SortByColors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/SortByColors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/SubArraySumEqualK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/SubArraySumEqualK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/WiggleSortI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/WiggleSortI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/WiggleSortII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/array/WiggleSortII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/bits/AddBinaryStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/bits/AddBinaryStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/bits/CountOfSetBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/bits/CountOfSetBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/recursion/Printing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/recursion/Printing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/stack/LargestHistrogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/stack/LargestHistrogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/stack/NextGreaterElementCircular.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/stack/NextGreaterElementCircular.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/tree/binarytree/BTCountOfNodesForCompleteTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/tree/binarytree/BTCountOfNodesForCompleteTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/tree/binarytree/BTLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/tree/binarytree/BTLevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/tree/binarytree/BTPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/tree/binarytree/BTPathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/tree/binarytree/BTVerticalOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/tree/binarytree/BTVerticalOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/linkedlist/LinkedListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/searching/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/BTInOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTInOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/BTLCAOfTwoNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/BTLCAOfTwoNodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/learnby/tree/ConstrcutBTfromINOrderAndLevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/learnby/tree/ConstrcutBTfromINOrderAndLevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/FirstMissingPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/FirstMissingPositive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/JumpsGameII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/JumpsGameII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/LargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/MaxConsecutiveOnesIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxConsecutiveOnesIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/MaxProductSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaxProductSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/MaximumPositivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/MaximumPositivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/MergeInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/MinmumDifferenceOfTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/MinmumDifferenceOfTriplet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/NobelInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/NobelInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/SortByColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/SortByColors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/SubArraySumEqualK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/SubArraySumEqualK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/WiggleSortI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/WiggleSortI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/array/WiggleSortII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/array/WiggleSortII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/bits/AddBinaryStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/bits/AddBinaryStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/bits/CountOfSetBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/bits/CountOfSetBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/recursion/Printing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/recursion/Printing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/stack/LargestHistrogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/stack/LargestHistrogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/stack/NextGreaterElementCircular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/stack/NextGreaterElementCircular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTCountOfNodesForCompleteTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTCountOfNodesForCompleteTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTVerticalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/tree/binarytree/BTVerticalOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/math/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-by/com/org/prep/math/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/org/prep/math/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/org/prep/math/GCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -448,9 +230,22 @@
       <recent name="com.org.prep.stack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GCD">
+  <component name="RunManager" selected="Application.GCDPairs">
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.org.prep.math.GCD" />
+      <module name="learn-by" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.prep.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCDPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.math.GCDPairs" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
@@ -488,19 +283,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinSwapdRequried" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.MinSwapdRequried" />
-      <module name="learn-by" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.prep.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReArrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.org.prep.math.ReArrangeArray" />
       <module name="learn-by" />
@@ -516,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCDPairs" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.ReArrangeArray" />
         <item itemvalue="Application.MaxNumberOfOnesInRow" />
         <item itemvalue="Application.MaximunSumSubbary" />
-        <item itemvalue="Application.MinSwapdRequried" />
       </list>
     </recent_temporary>
   </component>
@@ -750,7 +532,10 @@
       <workItem from="1689161305530" duration="602000" />
       <workItem from="1694026252253" duration="3946000" />
       <workItem from="1694111826409" duration="30900000" />
-      <workItem from="1695124640175" duration="5199000" />
+      <workItem from="1695124640175" duration="6550000" />
+      <workItem from="1695843197449" duration="1300000" />
+      <workItem from="1695900595359" duration="5332000" />
+      <workItem from="1697089267274" duration="595000" />
     </task>
     <servers />
   </component>
@@ -1918,6 +1703,19 @@
           <url>file://$PROJECT_DIR$/src/com/org/prep/math/GCD.java</url>
           <line>22</line>
           <option name="timeStamp" value="954" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/math/GCDPairs.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="955" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/math/GCDPairs.java</url>
+          <line>47</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="957" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
