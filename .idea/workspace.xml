@@ -129,6 +129,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
     <option name="width" value="1940" />
@@ -211,16 +214,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DumpaMadhusudhanRao/personal/madhu/madhu/personal/practice/DSAALGOBYMADHU&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GCDPairs.executor": "Run",
+    "Application.MaxProductSubarray.executor": "Debug",
+    "Application.MaxTriplet.executor": "Run",
+    "Application.OddLengthSubarraysSum.executor": "Debug",
+    "Application.PrintAllSubarraysSum.executor": "Run",
+    "Application.SpiralMatrix.executor": "Debug",
+    "Application.TopKFrequentElements.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/madhusudhandumpa/Documents/madhu_personal/practice/DSA/DSAALGOBYMADHU",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.org.prep.backtracking" />
@@ -230,35 +248,9 @@
       <recent name="com.org.prep.stack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GCDPairs">
-    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.prep.math.GCD" />
-      <module name="learn-by" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.prep.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GCDPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.prep.math.GCDPairs" />
-      <module name="learn-by" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.prep.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxNumberOfOnesInRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.MaxNumberOfOnesInRow" />
+  <component name="RunManager" selected="Application.SpiralMatrix">
+    <configuration name="MaxProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.MaxProductSubarray" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
@@ -270,8 +262,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximunSumSubbary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.MaximunSumSubbary" />
+    <configuration name="MaxTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.MaxTriplet" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
@@ -283,12 +275,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReArrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.prep.math.ReArrangeArray" />
+    <configuration name="PrintAllSubarraysSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.PrintAllSubarraysSum" />
       <module name="learn-by" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.prep.math.*" />
+          <option name="PATTERN" value="com.org.prep.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.SpiralMatrix" />
+      <module name="learn-by" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.prep.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.prep.array.TopKFrequentElements" />
+      <module name="learn-by" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.prep.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,13 +316,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GCDPairs" />
-        <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.ReArrangeArray" />
-        <item itemvalue="Application.MaxNumberOfOnesInRow" />
-        <item itemvalue="Application.MaximunSumSubbary" />
+        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.MaxTriplet" />
+        <item itemvalue="Application.MaxProductSubarray" />
+        <item itemvalue="Application.TopKFrequentElements" />
+        <item itemvalue="Application.PrintAllSubarraysSum" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration" cleanupOnStartRun="true">
@@ -536,6 +562,8 @@
       <workItem from="1695843197449" duration="1300000" />
       <workItem from="1695900595359" duration="5332000" />
       <workItem from="1697089267274" duration="595000" />
+      <workItem from="1722106302250" duration="6419000" />
+      <workItem from="1723092555887" duration="12148000" />
     </task>
     <servers />
   </component>
@@ -1561,12 +1589,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/array/TopKFrequentElements.java</url>
-          <line>12</line>
+          <line>10</line>
           <option name="timeStamp" value="921" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/org/prep/array/TopKFrequentElements.java</url>
-          <line>17</line>
+          <line>15</line>
           <option name="timeStamp" value="922" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1717,6 +1745,40 @@
           </properties>
           <option name="timeStamp" value="957" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/OddLengthSubarraysSum.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="958" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/TopKFrequentElements.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="959" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MaxProductSubarray.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="961" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/SpiralMatrix.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="962" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/SpiralMatrix.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="963" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/org/prep/array/MaxProductSubarray.java</url>
+          <line>4</line>
+          <properties class="com.org.prep.array.MaxProductSubarray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="960" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1811,7 +1873,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Documents/openjdk_zulu8/src.zip!/java/lang/Integer.java" />
+    <entry file="jar://$PROJECT_DIR$/../../../../openjdk_zulu8/src.zip!/java/lang/Integer.java" />
     <entry file="file://$PROJECT_DIR$/src/com/org/prep/stack/DinnerPlates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">

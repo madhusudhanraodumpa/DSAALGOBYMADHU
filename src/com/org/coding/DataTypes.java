@@ -1,6 +1,6 @@
 package com.org.coding;
 
-import com.sun.xml.internal.bind.v2.runtime.output.StAXExStreamWriterOutput;
+
 
 public class DataTypes {
     public static void main(String[] args){
