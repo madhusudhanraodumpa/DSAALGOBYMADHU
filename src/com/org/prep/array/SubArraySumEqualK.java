@@ -5,9 +5,9 @@ import java.util.Map;
 
 public class SubArraySumEqualK {
     public static void main(String args[]){
-        int a[]={3,9,-2,4,1,-7,2,6,-5,8,-3,-7,6,2,1
+        int a[]={1,3,4,7,2,-3,1,4,2
         };
-        subarraySum1(a,5);
+        subarraySum1(a,7);
     }
     public static int subarraySum1(int[] a, int k) {
         int n = a.length;

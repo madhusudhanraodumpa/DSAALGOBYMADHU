@@ -3,7 +3,8 @@ package com.org.prep.binarysearch;
 public class BinarySearchInfiniteSortedArray {
     public static void main(String args[]){
 
-        int a[]={};
+        int a[]={3, 5, 7, 9, 10, 90, 100, 130, 140, 160, 170};
+        System.out.println(findPosition(a,10));
 
     }
     public static int findPosition(int[] a, int k){

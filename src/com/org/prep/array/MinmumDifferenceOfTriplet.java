@@ -10,7 +10,9 @@ public class MinmumDifferenceOfTriplet {
         int[] b={6,9,15};
         int c[]={2,3,6,6};
         System.out.println(minTriplet(a,b,c));// its different size of arrays
-       // System.out.println(minTriplet1(a,b,c));// its same size of arrays
+        System.out.println(minTriplet1(a,b,c));// its same size of arrays
+        System.out.println(solve(a,b,c));// its same size of arrays
+
         System.out.println();
     }
 

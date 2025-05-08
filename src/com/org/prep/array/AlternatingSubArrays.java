@@ -6,8 +6,8 @@ import java.util.List;
 public class AlternatingSubArrays {
 
     public static void main(String[] args) {
-        int a[]={0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1};
-        solve(a,1);
+        int a[]={0, 0, 0, 1, 1, 0, 1};
+        solve(a,0);
     }
 
     public static int[] solve(int[] A, int B) {
@@ -34,7 +34,7 @@ public class AlternatingSubArrays {
 
             }
             value = A[i];
-            for (int j = i + 1; j < i + B + 1; j++) {
+            for (int j = i + 1; j <= i + B ; j++) {
                 if (value != A[j]) {
                     value = A[j];
                 } else {
